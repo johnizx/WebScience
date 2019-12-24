@@ -1,0 +1,1840 @@
+['DR Congo', 'Armed Forces ', '(FARDC)', ' Pro-government ', 'Mai-Mai', ' militias', 'FDLR', '(2006–2014)', 'APCLS', '[6]', '(2012–2013)', 'Nyatura', '(2012–2014)', 'MONUSCO', 'Angola', 'Zimbabwe', 'Botswana', '(Against FNL and FNL-Nzabampema only)', 'Supported by:', 'Belgium', 'France']@@nt
+['Houthis']@@nt
+['Iran', 'Supported by:', 'Turkey']@@nt
+['Nigerian government', 'Nigerian Armed Forces']@@nt
+['Central African Republic', 'Chad', 'MINURCAT', 'MICOPAX', 'CEEAC']@@nt
+['Macedonian Police']@@nt
+['Colombia']@@nt
+['Mozambique', 'Support:', 'Russia', 'Tanzania', 'Portugal']@@nt
+['Pakistan', 'NWPORBAT', 'Pakistan Armed Forces', 'ISI CAD', 'Frontier Constabulary', 'Local Peace Committees', 'United States', 'CIA', 'SAD/SOG', 'SOCOM', 'USAF']@@nt
+['Pakistan', 'Pakistan Army', 'Frontier Corps', 'Iran', 'Imperial Army', ' (until 1979)', 'IRGC', ' (since 1980)', 'Border Guard', ' (since 2000)']@@nt
+['Iraq']@@nt
+['Cameroon']@@nt
+['Iraq', 'Support:', 'Iran', 'Turkey']@@nt
+['Saudi Arabia']@@nt
+['Upper Egypt', ' under ', 'Narmer']@@nt
+['Philippines']@@nt
+['Faction of ', 'Parakrama Pandyan II', 'Kingdom of Polonnaruwa']@@nt
+['Ayyubid Dynasty']@@nt
+['Kingdom of Jerusalem']@@nt
+['English', ' royalists']@@nt
+['Minamoto clan']@@nt
+['Normandy']@@nt
+['Taira clan']@@nt
+['Emperor Go-Shirakawa']@@nt
+['Denmark', 'Sweden', 'Sword-Brothers', 'Teutonic Order']@@nt
+['German Empire']@@nt
+['Zaidis']@@nt
+['Empire of Japan']@@nt
+['Byzantium']@@nt
+['Ottoman Empire']@@nt
+['Novgorod Republic', 'Vladimir-Suzdal']@@nt
+[]@@nt
+['Kingdom of France']@@nt
+['Golden Horde']@@nt
+['Rebels']@@nt
+['Liberal rebels']@@nt
+['Emirate of Nejd and Hasa']@@nt
+['Ecuador']@@nt
+['Russian Empire', 'Khiva']@@nt
+['Albania', 'Romanian volunteers', 'Austro-Hungarian volunteers', 'Kosovar', 'Albanian', ' units']@@nt
+['British Empire']@@nt
+['Allied Powers', 'British Empire', 'France', 'Russia', ' (1914–17)', 'Serbia', 'Belgium', 'Montenegro', 'Japan', 'Italy', ' (1915–18)', 'United States', ' (1917–18)', 'Romania', ' (1916–18)', 'Portugal', ' (1916–18)', 'Hejaz', ' (1916–18)', 'China', ' (1917–18)', 'Greece', ' (1917–18)', 'Siam', ' (1917–18)', '...', 'and others']@@nt
+['Russian Empire', '(1916–17)', 'Russian Republic', '(1917)', 'Russian SFSR', 'Turkestan ASSR', 'Khorezm SSR', 'Bukharan PSR', 'Soviet Union', '(From December 30, 1922)']@@nt
+['Hashemite', ' Arabs', 'United Kingdom', 'Sultanate of Nejd', 'Unification of Saudi Arabia']@@nt
+['United States']@@nt
+['British Army', 'Dublin Metropolitan Police', 'Royal Irish Constabulary']@@nt
+['Republic of China']@@nt
+['Second Polish Republic']@@nt
+['Banat Republic']@@nt
+['First Republic of Armenia']@@nt
+['Russian SFSR', 'Finnish Red Guards']@@nt
+['Turkish National Movement', 'Grand National Assembly', '(after 1920)', 'Kuva-yi Nizamiye', 'Kuva-yi Milliye', '(until 1920)', 'Supported by:', 'Russian SFSR']@@nt
+['France']@@nt
+['Weimar Republic']@@nt
+['Zhili clique', 'Fengtian clique']@@nt
+['Turkish National Movement', 'Russian SFSR']@@nt
+['Revolutionary committee (Revkom)', ' of Armenia']@@nt
+[' British ', 'RAF', ' Pro-Hashemite tribesmen:', '[41]', 'Adwan', 'Ajarma', 'Abbad', 'Bani Hasan', 'Bani Hamaida', 'Bani Sakhr', 'Hadid']@@nt
+['Costa Rica']@@nt
+['Armenia']@@nt
+['Turkey']@@nt
+['Sultanate of Nejd', 'British Empire']@@nt
+['Romania']@@nt
+['Faction of ', 'Fan Noli']@@nt
+['Estonia']@@nt
+['Soviet Union']@@nt
+['Igbo Women of Owerri and Calabar Provinces']@@nt
+['Kingdom of Afghanistan']@@nt
+['Chile']@@nt
+['Iran']@@nt
+['Leftist and Liberal Rebels']@@nt
+['First Austrian Republic', "Fatherland's Front"]@@nt
+['United Kingdom', 'British India', 'Transjordan']@@nt
+['Soviet Union', "People's Republic of Poland", 'Polish Underground State', 'Nazi Germany', '(1941–1944)']@@nt
+["People's Republic of Bulgaria"]@@nt
+['Communist Party of China', 'Second East Turkestan Republic', 'Soviet Union', 'White Russian', ' forces', "Mongolian People's Republic"]@@nt
+["People's Republic of Poland", 'Soviet Union']@@nt
+['Finland']@@nt
+['United Kingdom', 'British India']@@nt
+['Toussaint Louverture']@@nt
+['British East India Company', 'Maratha Empire', 'Hyderabad', 'Travancore']@@nt
+['Jewish Resistance Movement', 'Haganah', 'Irgun', 'Lehi']@@nt
+['Siam']@@nt
+['French Republic']@@nt
+['French Republic', 'Spain', 'Polish Legions', 'Denmark–Norway', '[22]', 'French client republics', 'Batavian Republic', 'Helvetic Republic', 'Cisalpine Republic', 'Roman Republic', '(until 1799)', '[23]', 'Parthenopaean Republic', '(1799)', '[24]']@@nt
+['Habsburg Monarchy']@@nt
+[' Kingdom Of Great Britain']@@nt
+['Ethiopian Empire', 'UK']@@nt
+['Kingdom of Iraq', 'Supported by:', 'Kurdish tribesmen ', '(1945)', 'Zibrari', 'Berwari', 'Doski', "Elements of the ‘Muhajarin' tribe"]@@nt
+['Government of National Salvation', 'Nazi Germany']@@nt
+['Philippines', 'United States']@@nt
+['Spain']@@nt
+['Soviet Union', 'United Kingdom']@@nt
+['Independent State of Croatia', 'Italy']@@nt
+['Russian Empire']@@nt
+['Qing empire']@@nt
+['Persian Empire', '* ', 'Ganja Khanate', '* ', 'Erivan Khanate']@@nt
+['Qing dynasty']@@nt
+['Russia', 'Prussia']@@nt
+['Batavian Republic']@@nt
+['American ', 'Frontiersmen']@@nt
+['Peru']@@nt
+['Kingdom of Romania']@@nt
+['Thailand']@@nt
+['East India Company']@@nt
+['British Army', 'Hessian mercenaries']@@nt
+['Karamanli dynasty']@@nt
+['Kingdom of Ahom']@@nt
+['French Republic', 'Spain ', '(from 1796)', 'Batavian Republic', '(from 1795)', 'French satellite states', 'Polish Legions', '(from 1795)', '[19]']@@nt
+['Burma']@@nt
+['Russia', 'Targowica Confederates']@@nt
+['Haiti', 'Great Britain', 'Spain', ' (1793–1795)', 'French royalists']@@nt
+['Kingdom of Hungary']@@nt
+['Sudetendeutsches Freikorps', 'Germany']@@nt
+['Nationalist Spain']@@nt
+['Allied Powers', 'Soviet Union', 'United States', 'United Kingdom', 'China', 'France', 'Poland', 'Yugoslavia', 'Greece', 'Netherlands', 'Belgium', 'Luxembourg', 'Norway', 'Czechoslovakia', 'India', 'Canada', 'Australia', 'New Zealand', 'South Africa', 'Philippines', 'Ethiopia', 'Brazil', 'Mongolia', 'Mexico']@@nt
+['Kingdom of Italy']@@nt
+['Second Hellenic Republic']@@nt
+['Electorate of Saxony']@@nt
+['Qajar dynasty']@@nt
+['Tokugawa shogunate']@@nt
+['Qing dynasty', 'Lê dynasty']@@nt
+['European settlers']@@nt
+['French Indochina']@@nt
+['Soviet Union', 'White Russian', ' forces']@@nt
+['Republic of China', 'Soviet Union', ' (1937-1941; 1944-1945)', 'United States', ' (1941-1945)', 'British Empire', ' (1942-1945)']@@nt
+['British Empire', 'India']@@nt
+['National faction', 'Falange', 'Carlists', '(1936–1937)', 'CEDA', '(1936–1937)', 'Alfonsists', '(1936–1937)', 'Army of Africa', 'Supported by:', 'Italy', 'Germany', 'Portugal', 'Foreign volunteers']@@nt
+['Denmark–Norway']@@nt
+['Sweden']@@nt
+['Nguyen lords']@@nt
+['Austria', 'Russia']@@nt
+['Prussia', 'Orangists']@@nt
+['Portugal']@@nt
+['United Kingdom', 'British Army', 'Palestine Police Force', 'Jewish Settlement Police', 'Jewish Supernumerary Police', 'Haganah', 'Special Night Squads', 'FOSH', 'Peulot Meyuhadot', 'Irgun', 'Peace Bands']@@nt
+['Bakr Sidqi', "'s supporters"]@@nt
+['Kingdom of Iraq']@@nt
+['Brazil']@@nt
+['Tay Son Dynasty']@@nt
+['Dutch Republic']@@nt
+['Transylvania']@@nt
+['Muscat and Oman']@@nt
+['Kingdom of Meath', 'Kingdom of Munster']@@nt
+['Sheikhdom of ', 'Zubarah']@@nt
+['Denmark', 'Sweden', 'Earls of Lade']@@nt
+['Duchy of Normandy']@@nt
+['Early Lê dynasty']@@nt
+['Liao Dynasty']@@nt
+['Byzantine Empire', "Kievan Rus'"]@@nt
+['Tibet (1912–1951)', 'Sichuan clique', 'Communist Party of China']@@nt
+['Spanish Republic']@@nt
+['Kārlis Ulmanis']@@nt
+['First Austrian Republic']@@nt
+["Kingdom of Hawai'i"]@@nt
+['Spain ', 'Viceroyalty of New Granada']@@nt
+['Qing Empire', 'Khafiya', ' Sufi Muslims']@@nt
+['British East India Company', 'Great Britain', 'Hanover']@@nt
+['Holy Roman Empire']@@nt
+['British East India Company']@@nt
+['Great Britain']@@nt
+['Byzantine Empire', "Kievan Rus'", ' (968–969)', 'Kingdom of Hungary', 'Principality of Duklja', 'Kingdom of Croatia']@@nt
+['Byzantine Empire']@@nt
+['The Netherlands']@@nt
+['Archduchy of Austria']@@nt
+['Spanish Empire']@@nt
+['United States', 'France', '(1778–83)', 'Spain', '(1779–83)', 'Dutch Republic', '(1780–83)', 'Co-belligerents', 'Mysore', '(1779–83)', 'Vermont', '(1777–83)', 'Oneida', 'Tuscarora', 'Watauga Association', 'Catawba', 'Lenape']@@nt
+['Kingdom of Germany', 'Bohemia']@@nt
+['Japan']@@nt
+['Tĩnh Hải quân', ' rebels']@@nt
+['East Francia']@@nt
+['Kingdom of Croatia']@@nt
+['Empire of Japan', 'Manchukuo', 'Chinese collaborators', 'Mongol Military Government', ' (1936)']@@nt
+['Order of Saint John']@@nt
+['Colony of Virginia']@@nt
+['Tay Son']@@nt
+['British Raj']@@nt
+['Ottoman Algeria']@@nt
+['Kingdom of Armenia']@@nt
+['Tabaristan', 'Khazars', 'Caucasian Albania', 'Shirvan', 'Volga Bulgaria', 'Burtas']@@nt
+['Abbasid Caliphate']@@nt
+["Kievan Rus'"]@@nt
+['Bulgarian Empire', 'Pechenegs']@@nt
+['Bulgarian Empire']@@nt
+['Great Moravia']@@nt
+['Soviet Union', 'Mongolia']@@nt
+['Paraguay']@@nt
+['El Salvador']@@nt
+["Mongolian People's Republic", 'Soviet Union']@@nt
+['Russian Empire ', 'Polish–Lithuanian Commonwealth']@@nt
+['Russian Empire', 'Zaporozhian Host', 'Greek insurgents', 'Kingdom of Kartli-Kakheti', 'Kingdom of Imereti']@@nt
+['West ', 'Louisiana']@@nt
+['Mysore']@@nt
+['Mysore', 'Cannanore']@@nt
+['Magyar tribes']@@nt
+['Eunuchs']@@nt
+['Yumtän']@@nt
+["Rus' Khaganate"]@@nt
+['Vikings']@@nt
+['Dutch Empire']@@nt
+['Portugal', 'Great Britain']@@nt
+['Yamani Tribal Federation ', 'Abbasid Caliphate']@@nt
+['Aguateca']@@nt
+['Frankish Empire']@@nt
+['Empress Kōken']@@nt
+['Kingdom of Hejaz and Nejd']@@nt
+['Sweden', 'Russia']@@nt
+['Tang Empire']@@nt
+['Great Britain', 'Hanover', 'Prussia', 'Brunswick-Wolfenbüttel', 'Iroquois Confederacy', 'Portugal', '(from 1761)', 'Hesse-Kassel', 'Schaumburg-Lippe']@@nt
+['Umayyad Caliphate']@@nt
+['Berber rebels']@@nt
+['Tikal']@@nt
+['Quiriguá']@@nt
+['Byzantine Empire', 'Bulgar Khanate']@@nt
+['Empire of Japan', 'Toda', 'Truku', '[52]', ' (Taroko)']@@nt
+['First Brazilian Republic']@@nt
+['Haile Selassie', ' loyalists']@@nt
+['Portugal', 'Spain']@@nt
+['Konbaung Dynasty']@@nt
+['Mataram Sultanate', ' (until 1755)', 'Yogyakarta Sultanate', ' (from 1755)', 'Surakarta Sunanate', ' (from 1755)', 'VOC']@@nt
+['Great Britain', 'British East India Company', 'Sepoys', 'Maratha allies']@@nt
+['Great Britain', 'British America', 'Iroquois Confederacy', 'Onondaga', 'Oneida', 'Seneca', 'Tuscarora', 'Mohawk', 'Cayuga', 'Catawba', 'Cherokee', ' (before 1758)']@@nt
+['Kingdom of Great Britain']@@nt
+['Merovingian', 'Franks']@@nt
+['Charles Martel']@@nt
+[' Forces of ', 'Chiang Kai-shek']@@nt
+['Great Britain', 'British America', 'Iroquois Confederacy']@@nt
+['Persian Empire']@@nt
+['Dutch East India Company']@@nt
+['Prussia']@@nt
+['Toniná']@@nt
+['Calakmul', 'Dos Pilas']@@nt
+['Umayyad Caliphate', ' (until 748) ', 'Abbasid Caliphate', ' (from 748)']@@nt
+['French colonial empire']@@nt
+['Kingdom of France', 'Kingdom of Prussia', 'Kingdom of Spain', 'Bavaria', '(1741–45)', 'Saxony', '(1741–42)', 'Sicily', 'Naples', 'Republic of Genoa', 'Sweden', '(1741–43)']@@nt
+['Safavid Persian Empire']@@nt
+['Russian Empire', 'Cossack Hetmanate', 'Habsburg Empire']@@nt
+['Portuguese Empire']@@nt
+['Poland loyal to Stanisław Leszczyński', 'France', 'Spain', 'Kingdom of Sardinia', 'Duchy of Parma']@@nt
+['Danish West India Company']@@nt
+['Silla', ' Former ', 'Goguryeo', ' armies ', ' Former ', 'Baekje', ' armies']@@nt
+['Tang', 'Silla']@@nt
+['Tang Dynasty']@@nt
+['Aisha', "'s forces ", 'Muawiya', "'s forces ", 'Kharijites']@@nt
+['Rashidun Caliphate', 'Umayyad Caliphate']@@nt
+['Tang Dynasty', 'Silla']@@nt
+['County of East Frisia']@@nt
+['Müllerisch Faction']@@nt
+['Russian Empire', 'Ukrainian Cossacks', 'Georgia', 'Armenia']@@nt
+['New England Colonies', 'Mohawk']@@nt
+['Great Britain', 'Chickasaw']@@nt
+['Rashidun Caliphate']@@nt
+['Tortuguero']@@nt
+['Mexico']@@nt
+['Kuwait']@@nt
+['Amānullāh Khān', ' (Until 14 January 1929)', 'Inayatullah Khan', ' (14-17 January 1929)', 'Ali Ahmad Khan', ' (17 January - 9 February 1929)', 'Various anti-Saqqawist tribes', 'Wardak', 'Maydan', 'Jalriz', 'Sanglakh', 'Mohammed Nādir Khān', ' (March–October 1929)', 'Intervening against Basmachi:', 'Soviet Union', '[50]']@@nt
+['Qing Empire of China']@@nt
+['Mataram Sultanate', 'Dutch East India Company']@@nt
+['Great Britain', 'France', 'Holy Roman Empire', 'Dutch Republic', 'Savoy']@@nt
+['Oman']@@nt
+['British Government forces']@@nt
+['Colonial militia of South Carolina ', ' Colonial militia of North Carolina', ' Colonial militia of Virginia', 'Catawba', ' (from 1715)', 'Cherokee', ' (from 1716)']@@nt
+['Canton of Zürich', 'Canton of Bern', 'Toggenburg rebels', 'City of Geneva', 'Principality of Neuchâtel']@@nt
+["Samo's Empire"]@@nt
+['Muslims', 'Quraysh tribe']@@nt
+['Muslims']@@nt
+['Ikhwan']@@nt
+['Communist Party of China', 'After 1949:', "People's Republic of China"]@@nt
+[' Ibn Saud ', 'United Kingdom', 'Kuwait']@@nt
+['Nicaraguan', 'Conservatives', ' (government)']@@nt
+['Pahlavi Iran']@@nt
+['Colonial militia of North Carolina', ' Colonial militia of South Carolina ', 'Yamasee', ' Northern ', 'Tuscarora', 'Apalachee', 'Catawba', 'Cherokee']@@nt
+['Shihab dynasty', 'Jumblatt', ' clan of Chouf ', ' Talhuq clan of Gharb ', ' Nakad clan of Manasif ', ' Imad clan of Arqub ', 'Abd al-Malik clan of Jurd ', " Abu'l Lama clan of Matn ", 'Khazen', ' clan of Keserwan']@@nt
+['Party of ', 'Ahmed Karamanli']@@nt
+['Province of Carolina']@@nt
+['Ottoman Empire', 'Crimean Khanate', 'Wallachia', 'Swedish Empire', 'Cossack Hetmanate', '(fraction of ', 'Pylyp Orlyk', 'Zaporizhian Sich']@@nt
+['Hotak dynasty']@@nt
+['Sui Dynasty']@@nt
+['Goguryeo']@@nt
+['Sassanid Persians']@@nt
+['Visigothic Kingdom']@@nt
+['Sassanid Empire']@@nt
+['Byzantine Empire', 'Ghassanids', 'Armenians']@@nt
+['Fengtian clique', 'Zhili clique', '  (from February 1918)']@@nt
+['United Kingdom']@@nt
+['Kingdom of Bulgaria']@@nt
+['Fengtian clique']@@nt
+['Kingdom of Portugal', ' Portuguese settlers ', ' Early Brazilian settlers']@@nt
+['Faction of ', 'Bahadur Shah I']@@nt
+['Russia']@@nt
+['Warsaw Confederation']@@nt
+['Lombards', 'Pannonian Avars']@@nt
+['Sassanid Empire', 'Western Turkic Khaganate']@@nt
+['England', '(before 1707)', '[17]', 'English America', 'Great Britain', '(after 1707)', '[17]', 'British America', 'Muscogee (Creek)', 'Chickasaw', 'Yamasee']@@nt
+['Byzantine Empire', 'Visigoths', ' under ', 'Athanagild']@@nt
+['Chenla']@@nt
+['Calakmul']@@nt
+['Emirate of Afghanistan', 'Allied tribes:', 'Khogyani', 'Shinwari']@@nt
+['Holy Roman Empire', 'Austria', 'Prussia', 'Hanover', 'England', '(until 1707)', 'Great Britain', '(from 1707)', '[16]', 'Dutch Republic', 'Duchy of Savoy', 'Kingdom of Portugal', 'Spain loyal to Charles']@@nt
+['Tsardom of Russia', 'Kalmyk Khanate', 'Cossack Hetmanate', 'Denmark–Norway', '(1700, 1709–20)', 'Electorate of Saxony', '(1700–06, 1709–)', 'Poland–Lithuania', ' (1700–04, 1709–)', 'Kingdom of Prussia', ' (1715–20)', 'Electorate of Hanover', ' (1715–19)', 'Great Britain', '(1717–19)']@@nt
+['Dutch West India Company']@@nt
+['Franks']@@nt
+['Bulgaria', 'IMRO', 'Shpitskomandi']@@nt
+['Sublime State of Iran', ' (1922–1924)', 'Imperial State of Iran', ' (1925–1979)', 'Islamic Republic of Iran', ' (1979–present)']@@nt
+['Lithuania']@@nt
+['United Kingdom', 'Emir Abdullah', "'s forces", ' Hashemite allied tribesmen']@@nt
+['Kingdom of Greece']@@nt
+['France', 'New France', 'Wabanaki Confederacy']@@nt
+['Williamites', 'England', 'Scotland', 'Dutch Republic', 'Protestant colonists', 'and mercenaries from various countries']@@nt
+['Grand Alliance', 'Dutch Republic', 'England', 'Holy Roman Empire', 'Spain ', 'Piedmont-Savoy', 'Sweden', ' (until 1691)', 'Scotland']@@nt
+['Crimean Khanate', 'Ottoman Empire']@@nt
+['Tsardom of Russia', 'Habsburg Empire', 'Polish–Lithuanian Commonwealth', 'Cossack Hetmanate']@@nt
+['Taghlib']@@nt
+['Salian Franks', ' of ', 'Tournai', ' and ', 'Cambrai']@@nt
+['Ostrogoths', 'Rugians']@@nt
+['Hephthalite Empire']@@nt
+['Vandals']@@nt
+['Gepids', 'Ostrogoths', 'Heruli', 'Rugii', 'Scirii', 'Suebi']@@nt
+['Emirate of Afghanistan']@@nt
+['Sublime State of Persia']@@nt
+[' Gondrists']@@nt
+['Venizelist', ' Rebels']@@nt
+['British Empire', 'British Raj']@@nt
+[' Pro-treaty forces']@@nt
+['Zhili clique']@@nt
+['Union of South Africa', 'South West Africa']@@nt
+['Mughal Empire']@@nt
+['Republic of Venice', 'Knights of Malta', 'Duchy of Savoy', 'Papal States', 'Knights of St. Stephen', 'Himariotes', 'Maniots', 'Other ', 'Greek', ' rebels']@@nt
+['Kingdom of England']@@nt
+['Polish–Lithuanian Commonwealth', 'Allied ', 'Holy League', ' forces']@@nt
+['Holy Roman Empire', 'Tsardom of Russia', 'Cossack Hetmanate', 'Poland–Lithuania', 'Republic of Venice', 'Habsburg Hungary', 'Kingdom of Croatia', 'Spanish Empire', 'Serbian', ' rebels', 'Albanian', ' rebels', 'Greek', ' rebels', 'Bulgarian', ' rebels']@@nt
+['Tibet']@@nt
+['Dzungar Khanate', 'Afāqi', ' Naqshbandi Sufi Khojas ', ' Turfan Khanate ', ' Kumul Khanate']@@nt
+['Bonifacius']@@nt
+['Teotihuacan']@@nt
+['Vandals', 'Suevi', 'Alans']@@nt
+['Visigoths']@@nt
+['Hunnic Empire']@@nt
+['Western Roman Empire']@@nt
+['United Kingdom', 'Emir Abdullah']@@nt
+['Union of South Africa']@@nt
+['Russian SFSR']@@nt
+['Sultanate of Nejd']@@nt
+['Persian Cossack Brigade']@@nt
+['Austria', 'Hungary']@@nt
+['Regentists']@@nt
+['Russian Tsardom', 'Cossack Hetmanate of Ivan Samoylovych']@@nt
+['Mongolian Communists ', 'Russian SFSR']@@nt
+['Husainid dynasty']@@nt
+['Swedish Empire', 'France']@@nt
+['New England Confederation', 'Mohegan', 'Pequot']@@nt
+['Dutch Republic', 'Denmark-Norway']@@nt
+['Eastern Jin dynasty']@@nt
+['France', 'England', 'Sweden', 'Bishopric of Münster', 'Archbishopric of Cologne']@@nt
+['Tanukhids']@@nt
+['Roman Empire']@@nt
+['Eastern Roman Empire']@@nt
+['Russian SFSR', 'Turkey']@@nt
+['France', 'Spain']@@nt
+['Old Guangxi clique']@@nt
+['Republic of Genoa', 'Spain']@@nt
+['Ottoman Empire', 'Crimean Khanate', 'Principality of Moldavia', 'Cossack Hetmanate', 'Doroshenko', "'s faction)"]@@nt
+['Tsardom of Russia']@@nt
+['Spanish Empire', 'Triple Alliance', 'Dutch Republic', 'Kingdom of England', 'Swedish Empire']@@nt
+['Polish–Lithuanian Commonwealth']@@nt
+['Constantine I', "'s legions"]@@nt
+['Jin Dynasty']@@nt
+['First Republic of Armenia', 'Armenian Revolutionary Federation']@@nt
+['Democratic Republic of Georgia']@@nt
+['Weimar Republic', 'Freikorps']@@nt
+['House of Kinlaza']@@nt
+['Dutch Republic', 'Denmark', 'France']@@nt
+["Sultan Abdul Hakkul Mubin's Forces"]@@nt
+['Koxinga', "'s Ming Loyalists"]@@nt
+['Kingdom of Kakheti']@@nt
+['Palmyrene Empire']@@nt
+['Cao Wei']@@nt
+['Illyriciani']@@nt
+['Kingdom of Serbs, Croats and Slovenes']@@nt
+['Tribal fighters']@@nt
+['Shu Han']@@nt
+['France', 'French Syria']@@nt
+['Principality of Albania']@@nt
+['Poland']@@nt
+['Turkish National Movement']@@nt
+['Kuwait', 'British Empire']@@nt
+['Turkish National Movement', 'Supported by:', 'Russian SFSR']@@nt
+['Denmark–Norway', 'Dutch Republic', 'Brandenburg-Prussia', 'Polish–Lithuanian Commonwealth']@@nt
+['Irish Republic']@@nt
+['Swedish Empire']@@nt
+['Rebellious soldiers']@@nt
+['Duchy of Savoy']@@nt
+['Swedish Empire', 'Brandenburg-Prussia', ' (1656–57)', 'Principality of Transylvania', 'Ukrainian Cossacks', ' (1657)', '[15]', 'Grand Duchy of Lithuania', 'Wallachia', 'Moldavia']@@nt
+['Commonwealth of England', 'France', ' (1657–59)']@@nt
+['Susquehannock', ' and allied tribes']@@nt
+['Sun Ce']@@nt
+['Severan dynasty']@@nt
+['Han Dynasty']@@nt
+['Republic of Poland', "Ukrainian People's Republic"]@@nt
+['Kingdom of Italy', 'Free State of Fiume']@@nt
+['Forces loyal to ', "Gabriele D'Annunzio"]@@nt
+['Tsardom of Russia', 'Ukrainian Cossacks']@@nt
+['Afghanistan']@@nt
+["City governments' troops ", 'Zürich', 'Thurgau', 'Uri']@@nt
+['Qing Empire', 'Joseon dynasty']@@nt
+['Commonwealth of England']@@nt
+['Dutch East India Company', 'Aboriginal Taiwanese']@@nt
+['Isles of Scilly']@@nt
+['Margraviate of Brandenburg']@@nt
+['Han dynasty', 'Southern Xiongnu']@@nt
+['Czechoslovakia']@@nt
+['Polish Military Organization', ' (PMO) ', ' 41st Infantry Regiment']@@nt
+['Interim government', 'Freikorps']@@nt
+['Montenegrin Whites', 'Kingdom of Yugoslavia']@@nt
+['First Portuguese Republic']@@nt
+['English Parliamentarian', 'New Model Army', ',', 'Protestant colonists']@@nt
+['Parliamentarians']@@nt
+['Parliamentary forces']@@nt
+['Zaporozhian Cossacks', 'Crimean Tatars', ' (1649–1654, 1656–1657)']@@nt
+['Hermunduri']@@nt
+['Ottoman Empire', 'Barbary States']@@nt
+['Kingdom of Iberia']@@nt
+['Red Eyebrows movement']@@nt
+['Lülin']@@nt
+['Arminius', "' troops"]@@nt
+['Cherusci']@@nt
+['Emirate of Riyadh']@@nt
+['Lithuania', 'Saxon volunteers']@@nt
+['Estonia', 'White Russia', 'Latvia', 'United Kingdom', 'Ingria', 'Ober Ost', 'Finnish, Swedish and Danish volunteers']@@nt
+['Maqil', 'Arab', ' tribes']@@nt
+['Latvia', 'Estonia', 'Poland', 'United Kingdom', 'France']@@nt
+['Lenape']@@nt
+['Scottish ', 'Covenanters']@@nt
+['Sweden', 'Dutch Republic']@@nt
+['Cambodia']@@nt
+['Barberini', 'Pope Urban VIII', ' and ', 'Pamphili', 'Pope Innocent X', ' their papal armies and relatives.']@@nt
+['Parliaments of England and Scotland']@@nt
+['Iroquois']@@nt
+['Portugal', 'Supported by', 'Kingdom of England', ' (after 1661)']@@nt
+['Roman Empire', 'Odrysian Kingdom']@@nt
+['Roman Republic', ' (supporters of ', 'Octavian']@@nt
+['Roman Republic']@@nt
+['Second Triumvirate']@@nt
+['First Republic of Armenia', 'Republic of Mountainous Armenia', 'Nagorno-Karabakh rebels', 'British Empire', ' (1918 only)', 'Centrocaspian Dictatorship', ' (1918 only)']@@nt
+['White movement', 'xa0xa0', 'Kuban-Black Sea Soviet Republic']@@nt
+['First Hungarian Republic', 'Hungarian Soviet Republic']@@nt
+['Transcaucasian Democratic Federative Republic', 'Democratic Republic of Georgia']@@nt
+['State of Slovenes, Croats and Serbs', 'Kingdom of Yugoslavia']@@nt
+['File:Flag RSFSR 1918.svg', 'Russian SFSR', 'Finnish Red Guards', 'United Kingdom']@@nt
+['Russian SFSR', 'Finnish Red Guards', 'Murmansk Legion']@@nt
+[' Scottish ', 'Covenanters']@@nt
+['Tokugawa Shogunate', 'Dutch Empire']@@nt
+['Port Royal Administration']@@nt
+['France', 'Commonwealth of England', ' (from 1657)']@@nt
+['Julius Caesar', ' and supporters ', 'Populares']@@nt
+['Parthian Empire']@@nt
+['Pharisees', 'Roman Republic', 'Nabatean Kingdom']@@nt
+['Roman Republic', 'Trinovantes']@@nt
+['Roman Republic', 'Bithynia']@@nt
+['Hungarian National Council']@@nt
+['Austria-Hungary']@@nt
+['Iran', 'Qajars', ' (1919–1921)', 'Pahlavis', ' (1921–1922)']@@nt
+['Finnish White Guards', 'German Empire']@@nt
+['Massachusetts Bay Colony', 'Plymouth Colony', 'Saybrook Colony', 'Narragansett people', 'Mohegan people']@@nt
+['Supporting the Duke of Nevers', 'France']@@nt
+['Trịnh lords', 'Lê dynasty', 'Dutch East India Company']@@nt
+['Joseon Dynasty']@@nt
+['Optimates']@@nt
+['Electorate of Bavaria', 'Upper Austria']@@nt
+['Nabataean Kingdom']@@nt
+['Roman Republic', 'Kingdom of Bithynia']@@nt
+['Beiyang Government']@@nt
+['Ukrainian SSR', 'Russian SFSR']@@nt
+['Victorious in Russia, Ukraine, Georgia, Armenia, Azerbaijan, Kazakhstan, and Mongolia', 'Russian SFSR', 'Other ', 'Soviet republics', "Mongolian People's Party", 'Victorious in their respective countries:', 'Kingdom of Finland', 'Republic of Estonia', 'Republic of Latvia', 'Republic of Lithuania', 'Second Polish Republic']@@nt
+['Spain', 'Republic of Genoa']@@nt
+['Basques']@@nt
+['Han empire']@@nt
+['Bolsheviks']@@nt
+['Russian Provisional Government']@@nt
+[' Russian revolutionaries']@@nt
+['Poland-Lithuania']@@nt
+['France ', 'Venice']@@nt
+['Protestant States and Allies', 'Denmark-Norway', ' (1625–1629)', 'France', ' (from 1635)', '[7]', 'Bohemia', ' (1618–1620)', 'Swedish Empire', 'Saxony', 'United Provinces', 'Electorate of the Palatinate', 'Brunswick-Lüneburg', 'England', ' (1625–30)', '[8]', 'Brandenburg-Prussia', 'Transylvania', 'Hungarian Anti-Habsburg Rebels', '[9]', 'Zaporozhian Cossacks', 'Ottoman Empire']@@nt
+['Later Jin', ' (until 1636)', 'Qing dynasty', ' (from 1636)']@@nt
+['Judea']@@nt
+['Roman Republic', 'Pergamon']@@nt
+['Kingdom of Dardania']@@nt
+['Roman Republic', 'Pergamum']@@nt
+['Roman Republic', 'Achaean League', 'Macedon', 'Pergamum', 'Rhodes']@@nt
+['Xiongnu']@@nt
+['Regents of Ethiopia']@@nt
+['Holy Roman Empire', 'Kingdom of Croatia', 'Spain']@@nt
+['Mataram Sultanate']@@nt
+['Kingdom of Portugal', ' Brazilian colonists']@@nt
+['England']@@nt
+['Liu Bang', "'s troops ", 'Yan', 'Zhao', 'Qi', 'Wei']@@nt
+['Roman Republic', 'Pergamon', 'Rhodes']@@nt
+['Rhodes', 'Pergamum', 'Byzantium', 'Cyzicus', 'Athens', 'Knossos']@@nt
+['Han']@@nt
+['Greco-Bactrian Kingdom']@@nt
+['Qin dynasty']@@nt
+['Roman Republic', 'Aetolian League', 'Pergamon', 'Sparta ', 'Elis', 'Messenia']@@nt
+['Rebel forces of the six states']@@nt
+['Supporting Wolfgang William', 'Spain', 'Palatinate-Neuburg', 'Catholic League', 'Supporting John Sigismund', 'Margraviate of Brandenburg', 'United Provinces', 'England', 'Protestant Union']@@nt
+['British Empire', 'Kingdom of Italy']@@nt
+['Satsuma Domain']@@nt
+['Kingdom of Portugal', 'Supported by:', 'Crown of Castile', '(until 1640)', 'Kingdom of Cochin', 'Potiguara', ' Tupis']@@nt
+['Safavid Empire']@@nt
+['Crown of Castile', 'Spain', 'Mexico', 'United States']@@nt
+['Polyrrhenia', 'Lyctus', 'Lappa', 'Macedonia', 'Achaean League']@@nt
+['Qin']@@nt
+["Emirate of Ha'il"]@@nt
+[' Eastern Army: forces loyal to ', 'Tokugawa Ieyasu']@@nt
+['Charles IX of Sweden']@@nt
+['Kingdom of England', ' and its ', 'government in Ireland']@@nt
+['Achaean League', 'Macedon']@@nt
+['Carthage']@@nt
+['Troops of ', 'Euthydemus I']@@nt
+['Ancient Carthage']@@nt
+['Parni']@@nt
+['Duchy of Württemberg', 'House of Ascania', 'Margraviate of Brandenburg']@@nt
+['Kingdom of Ayutthaya']@@nt
+['Austria', 'Holy Roman Empire', 'Habsburg Kingdom of Hungary', '[6]', 'Kingdom of Croatia', '[6]', 'Kingdom of Bohemia', 'Principality of Transylvania', 'Wallachia', 'Moldavia', 'Zaporozhian Host', 'Spain ', 'Serbian hajduks', 'Papal States', 'Venice', 'Saxony', 'Tuscany', 'Persia', 'Knights of St. Stephen', 'Bulgarian', 'rebels', 'Duchy of Ferrara', 'Duchy of Mantua', 'Duchy of Savoy']@@nt
+['Prince-Bishopric of Basel']@@nt
+['Ming dynasty', 'Joseon dynasty']@@nt
+['Maurya Empire']@@nt
+['Macedon']@@nt
+['Ptolemaic Kingdom']@@nt
+['Roman Republic', 'Carthage']@@nt
+['Republic of China', 'Jahriyya', 'menhuan', 'Xidaotang']@@nt
+['Kingdom of Serbia']@@nt
+['Faction of ', 'Sigismund III Vasa']@@nt
+['Ottoman Empire', 'Kingdom of Greece', 'Kingdom of Serbia', 'Kingdom of Montenegro', 'Kingdom of Romania']@@nt
+['Ernst of Bavaria', ' Prince-Elector, Cologne, 1583–1612 ', 'House of Wittelsbach', 'Free Imperial City of Cologne', ' Philip of Spain, and for him:', 'House of Farnese', 'House of Isenburg-Grenzau', 'House of Mansfeld', ' (main line)', 'House of Berlaymont-Flyon', 'and others']@@nt
+['Spain', 'Portugal loyal to Philip']@@nt
+['Oda clan']@@nt
+['Kingdom of England', 'Kingdom of Ireland', 'allied Irish clans']@@nt
+['Aetolian League', 'Illyrians', 'Macedon', 'Thracians', 'Paeonians']@@nt
+['Yan']@@nt
+['Seleucid Empire']@@nt
+['The Siraceni']@@nt
+['Rhodes', 'Ptolemaic Kingdom', 'Seleucid Empire']@@nt
+['Portuguese First Republic']@@nt
+[' Brazilian Governists']@@nt
+['Cuba', 'United States']@@nt
+['Albanian', ' rebels']@@nt
+['Kingdom of Bulgaria', 'Kingdom of Greece', 'Kingdom of Serbia', 'Kingdom of Montenegro']@@nt
+['Bruneian Empire']@@nt
+['Polish–Lithuanian Commonwealth', 'Principality of Transylvania']@@nt
+['Crimean Khanate']@@nt
+['Forces of ', 'Oda Nobunaga']@@nt
+['Roman Republic', 'Volsci']@@nt
+['Roman Republic', 'Samnites']@@nt
+['Roman Republic', 'Sidicini', ' Campanians']@@nt
+['Amphictyonic League']@@nt
+['Chios', 'Rhodes', 'Kos', 'Byzantion']@@nt
+['Tongmenghui']@@nt
+['Dominican Republic']@@nt
+['Liberal Party']@@nt
+['Elizabeth I of England', 'English and Welsh Protestants', 'Scottish Protestants']@@nt
+['United Provinces', 'England', 'German Protestants', 'Huguenots', 'France']@@nt
+["King's Men"]@@nt
+['Spain', 'Filipino Loyalists']@@nt
+['Burma', ' Burmese Controlled Thai States']@@nt
+['Achaemenid Empire']@@nt
+['Boeotian League']@@nt
+['Thebes', 'Athens']@@nt
+['Kingdom of Dardania', 'Supported by:', 'Syracuse']@@nt
+['Cadusii']@@nt
+['Gauls']@@nt
+['Athens', 'Argos', 'Corinth', 'Thebes', 'Persian Empire', ' Other allies']@@nt
+['Texas Rangers']@@nt
+['Constitutionalistas', 'United States', 'Maderistas']@@nt
+['Maderistas', 'Orozquistas', 'Villistas', 'Zapatistas', 'Carrancistas', 'Magonistas', 'Seditionistas']@@nt
+['Portuguese Republican Party']@@nt
+['Politiques']@@nt
+['Livonian Confederation', 'Polish–Lithuanian Commonwealth', '(before 1569 the ', 'Polish–Lithuanian union', 'Denmark–Norway', 'Sweden', 'Zaporozhian Cossacks', 'Principality of Transylvania', ' (after 1577)', '[5]']@@nt
+['Portuguese Empire', 'Tamoio People']@@nt
+['Party of Hans von Carlowitz']@@nt
+['The Four Hundred']@@nt
+['Peloponnesian League']@@nt
+['Athens']@@nt
+['Sparta', 'Peloponnesian League']@@nt
+['Syracuse', 'Cumae']@@nt
+['Veii']@@nt
+['Greek city states led by ', 'Athens', ' and ', 'Sparta']@@nt
+['Kingdom of Montenegro']@@nt
+['Nicaraguan Conservative Party']@@nt
+['Tsardom of Russia', 'Qasim Khanate', 'Taw yağı']@@nt
+['Muscovite Russia', 'Hill Cheremisa']@@nt
+['Spanish Empire', 'Holy Roman Empire', 'Kingdom of England', 'Republic of Florence', 'Duchy of Savoy']@@nt
+['Margravate of Brandenburg-Kulmbach']@@nt
+['Syracuse', 'Agrigentum']@@nt
+['Chichimeca']@@nt
+['Persia']@@nt
+['Greek city states', 'Athens', 'Sparta', 'Thespians', 'Thebans', 'Other Greek Forces', 'Cyprus', 'Delian League', 'Other pro-Greek Forces']@@nt
+['Carthage', 'Etruscans']@@nt
+['Achaemenid Empire of Persia']@@nt
+['Kublai Khan']@@nt
+['Empire of Nicaea']@@nt
+['Ilkhanate', 'Armenian Kingdom of Cilicia', 'Kingdom of Georgia', 'Principality of Antioch', 'County of Tripoli', 'Golden Horde', ' of the Mongol Empire (1259-1264) ', 'Kingdom of England', 'Knights Templar']@@nt
+['Principality of Achaea', 'Republic of Genoa']@@nt
+['Ayyubid Dynasty', 'Bahris']@@nt
+['Sophie of Thuringia']@@nt
+['Republic of Venice', 'Count of Jaffa', 'Knights Templar']@@nt
+['Ming dynasty']@@nt
+['Young Turks', ' (Until 24 July 1908)', 'Ottoman Empire', ' (From 24 July 1908)']@@nt
+['Young Turks']@@nt
+['Kingdom of Mrauk U']@@nt
+['Empire of Charles V', 'Spain', 'Holy Roman Empire', 'Kingdom of England', 'Saxony', 'Brandenburg']@@nt
+['Kamata Kingdom']@@nt
+[' Spanish ', 'conquistadors']@@nt
+['Portuguese Empire', 'Ethiopian Empire']@@nt
+['Toungoo dynasty']@@nt
+['Persis']@@nt
+['Persis', '/', 'Achaemenid Empire of Persia']@@nt
+['Amphictyonic League of Delphi', ',', 'Sicyon']@@nt
+['forces of ', 'Mulay Hafid']@@nt
+['Landgraviate of Hesse']@@nt
+['Bishopric of Utrecht', 'Frisians', 'Town of Groningen']@@nt
+['County of Champagne', 'Kingdom of France', 'Holy Roman Empire', 'Duchy of Burgundy', 'County of Bar', 'Papal States']@@nt
+['Kingdom of Cyprus', ' Anti-Imperial faction in the ', 'Kingdom of Jerusalem', 'Republic of Genoa', 'Knights Templar', 'Papacy']@@nt
+['Holy Roman Empire', 'Teutonic Knights']@@nt
+['Nicaragua']@@nt
+['Holy Roman Empire', 'Spain', 'Duchy of Saxony', 'Kingdom of Hungary', 'Kingdom of Bohemia', ' and other ', 'Lands of the Bohemian Crown']@@nt
+['Captaincies of Brazil']@@nt
+['Holy Roman Empire', 'Spain']@@nt
+['Christian III', 'Duchy of Schleswig', 'Holstein', 'Sweden', 'Duchy of Prussia', 'Jutland']@@nt
+['Prince-Bishopric of Münster']@@nt
+['Revival Lê dynasty']@@nt
+['Neo-Babylonian Empire', 'Moab', 'Ammon', 'Chaldea']@@nt
+['Neo-Babylonian Empire']@@nt
+['Neo-Babylonian Empire', 'Media']@@nt
+['Crown of Castile', ' (1533–1716)', 'Spain (1716–1821)', 'Mexico (1821–1929)', 'United States (1896–1918)']@@nt
+['Babylonia']@@nt
+['Medes', ' (including: ', 'Persians', ' and ', 'Elamites', ') ', 'Scythians', 'Neo-Babylonian Empire', 'Chaldea', 'Cimmerians']@@nt
+['Roman Kingdom', 'Roman Republic']@@nt
+['Neo-Assyrian Empire']@@nt
+['Faction of Prince Zhao']@@nt
+['Mongol Empire']@@nt
+['Latin Empire', 'Kingdom of Thessalonica']@@nt
+['Holland', 'England', 'House of Welf']@@nt
+['Catholics', 'Uri', 'Schwyz', 'Zug']@@nt
+['Inca Empire', ' under ', 'Huáscar', 'Tumebamba']@@nt
+['Ottoman Turks', 'Moldavia', "John Szapolyai's Hungarian kingdom"]@@nt
+['Archduchy of Austria', 'Holy Roman Empire', 'Spain', 'Papal States', 'Kingdom of Bohemia', 'Kingdom of Croatia', "Ferdinand's Hungarian kingdom", '[1]']@@nt
+['Sparta ', 'Corinth', 'Lepreo', 'Cretan', 'mercenaries']@@nt
+['Habsburg Austria', 'Holy Roman Empire', 'Spain', 'Kingdom of Bohemia', 'Kingdom of Croatia (Habsburg)', 'Papal States', "Ferdinand's Hungarian kingdom", ' Voivodian ', 'Serbs']@@nt
+['Ethiopian Empire', 'Portuguese Empire']@@nt
+['Holy Roman Empire', 'Kingdom of Bohemia', 'Electorate of the Palatinate', 'Spain']@@nt
+['Eretria and allies']@@nt
+['Kingdom of France', 'Duchy of Brittany', 'House of Lusignan']@@nt
+['Kingdom of Georgia']@@nt
+['Protestants', 'Zürich']@@nt
+['Holy Roman Empire', 'Republic of Venice', 'Monferrat']@@nt
+['Han ', 'Wei ', 'Zhao ', 'Qin ', 'Chu ', 'Qi ', 'Yan ', 'Those were the remaining major states']@@nt
+['Nubia', 'Upper Egypt', 'Hermopolis']@@nt
+[' Forces of ', 'Bohemond IV of Antioch', 'Knights Templar', 'Ayyubid', 'Emirate of Aleppo', 'Kingdom of Jerusalem', 'Sultanate of Rum']@@nt
+['Sword-Brothers', 'Livonian Order', 'Kingdom of Denmark', 'Kingdom of Sweden']@@nt
+['Kingdom of Jerusalem', 'Kingdom of England', 'Kingdom of France', 'Holy Roman Empire', 'Knights Templar', 'Kingdom of Sicily']@@nt
+['Kingdom of Judah', 'Kushite Egypt']@@nt
+['Argentina']@@nt
+['Hellenic Macedonian Committee']@@nt
+['Swabian League']@@nt
+['Assyrian Empire', 'Kingdom of Judah']@@nt
+['The Revolution:', 'June 1905–August 1906', 'Secret Center', '[10]', 'Social Democratic Party', '[10]', 'Society of Humanity', '[10]', 'Revolutionary Committee', '[10]', 'Secret Society', '[10]', 'Semi-organized groups:', 'Ulama', ' and seminary students', '[11]', 'Committee of Merchants', '[12]', 'Committee of Guild Elders', '[13]', 'Students of ', 'Dar ul-Funun', ', ', 'School of Political Science', ' and ', 'School of Agriculture', '[13]', 'Struggle and Civil War:', 'August 1906–July 1909', 'Parliament', 'Tabriz Council', '[14]', 'Society of Azerbaijanis', '[15]', 'Central Society', '[16]', 'Dashnak', '[17]', 'Society of Guilds', '[15]', 'Society of College Graduates', '[15]']@@nt
+['Sparta']@@nt
+['Colchis']@@nt
+['Empire of Charles V', 'Spain', 'Holy Roman Empire', 'Republic of Genoa']@@nt
+['Assyrian Empire']@@nt
+['King Cheng of Zhou']@@nt
+['Zhou', ' rebel forces']@@nt
+['Egypt']@@nt
+['France', 'Malagasy', 'Catholics']@@nt
+['unknown (probably the ', 'Sea Peoples']@@nt
+['Israel']@@nt
+['South Korea']@@nt
+['Tugim Khan (Until 1538)', 'Supported by:', 'Khak-Nazar']@@nt
+['Three Leagues']@@nt
+['Empire of Charles V', 'Spain', 'Holy Roman Empire', 'Kingdom of England', 'Papal States']@@nt
+['Sweden', 'Free City of Lübeck', '(from 1522)']@@nt
+['Indonesia']@@nt
+['Royalist Castilians']@@nt
+['Bishopric of Hildesheim', 'County of Schaumburg', 'County of Diepholz', 'County of Hoya']@@nt
+['Royalists of Aragon']@@nt
+[' Spanish ', 'conquistadors', 'Tlaxcala']@@nt
+['Assyria']@@nt
+['House of Barcelona']@@nt
+['Stephen of Blois']@@nt
+['Pretenders']@@nt
+['Sultanate of Rûm', 'Almoravid Dynasty', 'Zengid Dynasty', 'Abbasid Caliphate', 'Fatimid Caliphate']@@nt
+['Republic of Venice', 'Kingdom of Jerusalem', 'County of Tripoli']@@nt
+['Seljuq Empire']@@nt
+['Republic of Pisa', 'Catalan counties', 'County of Provence', 'Giudicato of Torres', 'Papal States']@@nt
+['Chola Empire']@@nt
+['Achaeans', ' (mainly ', 'Mycenaens', ' and ', 'Spartans']@@nt
+['Fatimids', ' of ', 'Egypt']@@nt
+['Sultanate of Rum', 'Danishmends', 'Seljuk Emirate of ', 'Aleppo']@@nt
+['Ottoman Empire', 'Cretan State', 'Supported By:', 'Russian Empire']@@nt
+['United Kingdom', 'Federation of Malaya', 'Southern Rhodesia', 'Fiji', "King's African Rifles", 'Australia', 'New Zealand', 'Nepali Gurkhas', 'Supported by:', 'Thailand']@@nt
+['Government of Colombia', 'Conservative Party']@@nt
+['Union government (1948–1962)', 'AFPFL', 'Military', ' governments (1962–2011)', 'BSPP', ' (1962–1988)', 'SPDC', ' (1988–2011)', 'Current government', ' (since 2011)', 'USDP', ' (since 2011)', 'DKBA', ' (1994–2010)']@@nt
+['National Liberation Army']@@nt
+['Communist Party of Czechoslovakia', 'Supported by:', 'Soviet Union']@@nt
+['Kingdom of Poland']@@nt
+['India']@@nt
+['Habsburg Netherlands']@@nt
+['Lê dynasty']@@nt
+['Duchy of Württemberg']@@nt
+['Crown of Castile', 'Crown of Aragon']@@nt
+['Hittite Empire']@@nt
+['Kiyohara Clan']@@nt
+['Crusaders', 'Kingdom of France', 'County of Auvergne', 'Counts of Blois', 'Count of Toulouse', 'County of Boulogne', 'Duchy of Burgundy', 'County of Flanders', 'Duchy of Normandy', 'Diocese of Le Puy-en-Velay', 'Duchy of Brittany', 'Vermandois', 'Holy Roman Empire', 'Republic of Genoa', 'County of Sicily', 'Principality of Taranto', 'County of Apulia and Calabria', 'Eastern Christian Allies', 'Byzantine Empire', 'Armenian Kingdom of Cilicia']@@nt
+['Varendra']@@nt
+['Trtsu', '-', 'Bharata']@@nt
+['German Empire', 'United Kingdom', 'Kingdom of Italy']@@nt
+['Arzawa', 'Ahhiyawa']@@nt
+['French Indochina', 'Siam']@@nt
+['Undecided/ Draw']@@nt
+['Jews of Palestine', 'Haganah', 'Irgun', 'Lehi']@@nt
+['Romania', 'Supported by:', 'Soviet Union']@@nt
+['Paraguayan Government', 'Military of Paraguay', 'Colorado Party']@@nt
+['Bengal Sultanate']@@nt
+['People of Poonch and Mirpur; ', 'Muslim Conference', 'Supported by:', 'Pakistan']@@nt
+['Friulian nobility']@@nt
+['Kingdom of Greece', 'Hellenic Army', 'Supported by:', 'United States', '(from 1947)', 'United Kingdom', '(until 1947)']@@nt
+['Republic of Venice']@@nt
+['Castile']@@nt
+[' Forces of ', 'Selim I', ' Forces of ', 'Bayezid II', 'Janissaries']@@nt
+['Egyptian Empire']@@nt
+['Kingdom of Georgia', ' (1089–1125), ', 'Georgian Empire', ' (1184–1213)']@@nt
+['1508–10', 'Papal States', 'France', 'Holy Roman Empire', ' Spain', 'France', 'Duchy of Ferrara', '1511–13', 'France', 'Duchy of Ferrara', '1513–16', 'Venice', 'France', 'Scotland', 'Duchy of Ferrara']@@nt
+['Kingdom of Castille']@@nt
+['Principality of Kiev', 'Principality of Chernigov', "Principality of Pereiaslavl'"]@@nt
+['Kingdom of Galicia']@@nt
+['Kingdom of Castile']@@nt
+['Kingdom of England', 'Duchy of Normandy']@@nt
+['Armenian fedayi']@@nt
+['British Empire', 'Ethiopian Empire', 'Italian Empire']@@nt
+['Jabal Shammar']@@nt
+['Emirate of Sharjah']@@nt
+['Welsh kingdoms']@@nt
+['Viet Minh', 'Pathet Lao', 'Khmer Issarak', 'United Issarak Front', 'Japanese holdouts', 'Supported by:', 'Soviet Union', 'China', 'East Germany', 'Poland']@@nt
+['Philippines', 'Supported by', 'United States']@@nt
+['Iran', 'Supported by', 'United States', 'United Kingdom']@@nt
+['Travancore Kingdom of Travanore']@@nt
+['United States Army Military Government in Korea']@@nt
+['UN Command', 'South Korea', 'United States', 'United Kingdom', 'Australia', 'Belgium', 'Canada', 'France', 'Philippines', 'Colombia', 'Ethiopia', 'Greece', 'Luxembourg', 'Netherlands', 'New Zealand', 'South Africa', 'Thailand', 'Turkey', 'Medical support', 'Denmark', 'India', 'Italy', 'Norway', 'Sweden']@@nt
+['Duchy of Bavaria-Munich']@@nt
+[' Portugal']@@nt
+['Persian Empire', 'Timurid Empire']@@nt
+['Sweden', 'Free City of Lübeck', '(from 1509)', ' Norwegian rebels ', '(to 1504)']@@nt
+['Peasantry of ', 'Dithmarschen']@@nt
+['Hyksos']@@nt
+['Sealand Dynasty']@@nt
+['troops of ', 'Ilum-ma-ili']@@nt
+['Kingdom of Aragon', 'County of Urgell', 'Duchy of Aquitaine', 'Papal states']@@nt
+['Shang', ' rebel forces']@@nt
+['Great Seljuq Empire', ' (1048–1092)', 'Sultanate of Rum', ' (1077–1308)']@@nt
+['Hungarian pagans']@@nt
+['Byzantine Empire', 'Republic of Venice', 'Holy Roman Empire']@@nt
+['Duklja']@@nt
+['Peasant Army']@@nt
+['SFR Yugoslavia']@@nt
+['troops of ', 'Puzur-Sin', 'Assyria']@@nt
+['troops of ', 'Adasi']@@nt
+['Hittite Empire', 'Kassites', 'troops of ', 'Puzur-Sin', 'Assyria', 'Sealand Dynasty']@@nt
+['Grand Duchy of Moscow']@@nt
+['County of Apulia', 'County of Sicily', ' (1071-1091)']@@nt
+['Babylon', 'Larsa', ' (before c. 1763 BC) ', 'Yamhad', 'Mari', ' (before c. 1763 BC) ', 'minor city states']@@nt
+['Goryeo', 'Dazaifu']@@nt
+["Kievan Rus' allied to ", 'Poland', ' and ', 'Hungary']@@nt
+['Denmark', 'Poland']@@nt
+['Kassites']@@nt
+['Larsa']@@nt
+['High King of Ireland']@@nt
+['Elam', 'Susa']@@nt
+['Neo-Sumerian Empire']@@nt
+['Uruk']@@nt
+['Gutian']@@nt
+['Goryeo']@@nt
+['Akkadian Empire']@@nt
+['County of Apulia', 'County of Aversa', 'Kingdom of Sicily', ' (1130-1139)']@@nt
+['Akkad', 'Kish', ' (after being conquered)']@@nt
+['Lagash', 'Uruk']@@nt
+['Elam']@@nt
+['Adab']@@nt
+['Lagash']@@nt
+['Umma']@@nt
+['Kish']@@nt
+['Pakistan']@@nt
+['Uruk', '(Sumer)']@@nt
+['Uganda', 'Armed Forces', 'Police Force']@@nt
+['Myanmar']@@nt
+['Republic of the Congo', 'Armed Forces']@@nt
+['Islamic State of Iraq and the Levant', ' (ISIL)', 'Wilayat Tarabulus', 'Wilayah al-Jazair', '[144]', 'Wilayat Tunis', 'Ansar al-Sharia', 'only in March 2016', '[145]']@@nt
+['Democratic Republic of the Congo']@@nt
+['Nigeria', 'Nigerian Armed Forces']@@nt
+['Ukraine']@@nt
+['Azerbaijan']@@nt
+['Mozambique']@@nt
+['South Sudan', 'SPLA', 'Air Force', 'Mathiang Anyoor', 'Maban Defence Force', '[116]', 'Allied militias:', 'SSLM', '[117]', 'JEM', '[b]', 'SPLM-N', '[122]', '[120]', '(alleged)', 'EUPF', '[123]', '(alleged)', 'State allies:', 'Uganda', '[124]', 'Egypt', '[125]', '(alleged)']@@nt
+['Tobruk-led Government', ' and ', 'Libyan National Army', 'Support:', 'Gaddafi loyalists', 'Russia', 'United Arab Emirates', 'Jordan', ' (2014–16) ', 'United States', ' (2014–16) ', 'Saudi Arabia']@@nt
+['DR Congo', 'South Africa', 'Tanzania', 'Malawi']@@nt
+['Military of Yemen', 'Tribal', ' fighters', 'Popular Committees']@@nt
+['Government of Mali', 'Military of Mali', 'France', 'ECOWAS', 'full list', 'Benin', '[58]', 'Burkina Faso', '[59]', 'Cape Verde', '[60]', 'Gambia', '[60]', 'Ghana', '[61]', 'Guinea', '[62]', 'Guinea-Bissau', '[60]', 'Ivory Coast', '[62]', 'Liberia', '[63]', 'Niger', '[64]', 'Nigeria', '[65]', 'Sierra Leone', '[66]', 'Senegal', '[65]', 'Togo', '[58]', 'Chad', '[67]', 'Burundi', '[68]', 'Gabon', '[69]', 'South Africa', '[70]', 'Rwanda', '[70]', 'Tanzania', '[70]', 'Uganda', '[71]', 'China', '[72]', 'Germany', '[73]', 'Sweden', '[74]', 'Estonia', '[75]', 'Supported by:', 'full list', 'European Union', '[76]', '[77]', 'Algeria', 'Angola', '[78]', 'Australia', '[79]', 'Bangladesh', '[80]', 'Belgium', '[81]', 'Bulgaria', 'Cambodia', 'Canada', '[82]', '[83]', 'Comoros', '[84]', 'Czech Republic', '[85]', 'Denmark', '[86]', '[87]', 'Germany', '[88]', '[89]', 'Hungary', '[90]', '[91]', 'Ireland', '[92]', 'Italy', '[93]', 'India', '[94]', '[95]', '[96]', '[97]', '[98]', 'Japan', '[99]', 'Morocco', 'Namibia', '[100]', 'Nepal', 'Netherlands', '[101]', 'Poland', 'Portugal', 'Romania', '[102]', 'Spain', '[103]', '[104]', 'Turkey', 'Ukraine', 'United Arab Emirates', '[105]', 'United Kingdom', '[106]', 'United States', '[107]', 'Non-state combatants:', 'Ganda Iso', 'FLNA', '[108]', '[109]', 'MSA', ' (from 2016)', 'GATIA', ' (from 2014)']@@nt
+['Central African Republic', 'MINUSCA', '(since 2014)', 'MISCA', '(2013–2014)', 'MICOPAX', '(2013)', 'Angola', 'Cameroon', 'Chad', 'Congo-Brazzaville', 'DRC', 'Gabon', 'France', '(2013–16)', 'South Africa', '(2012–13)', 'EUFOR RCA', '(2014–15)', 'Estonia', 'Finland', 'Georgia', 'Latvia', 'Luxembourg', 'Netherlands', 'Portugal', 'Poland', 'Romania', 'Spain']@@nt
+['United States', 'United Kingdom', 'Germany', 'Australia', 'France', 'Jordan', 'Spain']@@nt
+['Sudan']@@nt
+['Kenya', 'TFG', 'Ras Kamboni Movement', 'Ethiopia', "Ahlu Sunna Waljama'a", 'Jubaland']@@nt
+['Lebanon', 'Hezbollah', 'Syria']@@nt
+['Bahrain']@@nt
+['Government of Sudan', 'SAF', 'RSF']@@nt
+['New Forces', 'RDR', 'UNOCI', 'France']@@nt
+['Democratic Republic of the Congo', 'Supported by:', 'MONUC', 'Rwanda', ' (alleged)']@@nt
+['Kyrgyzstan']@@nt
+['Tajikistan', 'Tajik army']@@nt
+['Libyan National Army', 'Special Forces (', 'Saiqa brigade', 'Libyan Air Force', '[52]', 'Libyan Navy', '[53]', 'Government-sanctioned local militias', 'Supreme Security Committee']@@nt
+['Egypt', 'Israel']@@nt
+['Yemen', 'Saudi Arabia']@@nt
+['NTC', 'NATO', 'Bulgaria', 'Belgium', 'Canada', 'Denmark', 'France', 'Greece', 'Italy', 'Netherlands', 'Norway', '[51]', 'Romania', 'Spain', 'Turkey', 'United Kingdom', 'United States', 'Jordan', 'Qatar', 'Sweden', 'UAE']@@nt
+['Nigeria']@@nt
+['Jamaica']@@nt
+['NRF', 'SLA', 'LJM', 'JEM', 'Proclaimed support:', 'United States', 'Alleged support:', 'Eritrea', 'Chad']@@nt
+['M27', '[7]', '(2014–present)', 'CNDP', '(2006–2009)', 'M23', '(2012–2013)', 'Allegedly supported by:', 'Rwanda', 'FDLR', ' (2014–present)', 'RUD-Urunana', '(2006–present)', 'Nyatura', '(2014–present)', 'FNL-Nzabampema', '(2013–present)', 'FNL/Palipehutu', '(1993–2009 and', '2010–2013)']@@nt
+['Kurdistan Free Life Party', ' Eastern Kurdistan Units', "Women's Defence Forces"]@@nt
+['Movement for the Emancipation of the Niger Delta', "Niger Delta People's Volunteer Force", 'Niger Delta Liberation Front', 'Joint Revolutionary Council', 'Niger Delta Vigilante']@@nt
+['UFDR', ' rebels', 'APRD', ' rebels', 'CPJP', ' rebels', 'FDPC', ' rebels', 'MLCJ', ' rebels']@@nt
+['NLA']@@nt
+['National Liberation Army', 'Nororiental de Guerra', 'Frente 33', 'Popular Liberation Army']@@nt
+['Ansar al-Sunna', 'Islamic State of Iraq and the Levant']@@nt
+['Taliban-aligned groups', 'Tehrik-i-Taliban Pakistan', 'al-Qaeda', 'Lashkar-e-Jhangvi', 'Lashkar-e-Islam', 'Tehreek-e-Nafaz-e-Shariat-e-Mohammadi', 'East Turkestan Islamic Movement', 'Islamic Movement of Uzbekistan', '(until 13 March 2015)', '[3]', 'Islamic State of Iraq and the Levant', '[4]', 'Jundallah', '[5]', 'Islamic Movement of Uzbekistan', '[3]', 'Tehreek-e-Khilafat', '[4]', 'Jamaat al-Ahrar', '[4]']@@nt
+['Baloch separatist groups', 'BLA', 'BRA', 'BLF', 'LeB', 'BLUF', 'BSO (Azad)', 'Supported by:', 'Iraq', '(1970s)', '[2]', 'Sectarian groups', 'Jundallah', 'Jaish ul-Adl', 'Jundallah (Pakistan)', 'Lashkar-e-Jhangvi', '[2]', 'Sipah-e-Sahaba', '[2]']@@nt
+['Islamic State', 'White Flags', 'Iraqi Baath Party']@@nt
+['Ambazonia']@@nt
+['Iraqi Kurdistan', 'PDKI', 'PKK', "People's Defense Forces"]@@nt
+['Organization for the Islamic Revolution in the Arabian Peninsula', 'Hezbollah Al-Hejaz']@@nt
+['Lower Egypt']@@nt
+['Islamic State of Iraq and the Levant']@@nt
+['Faction of  Kulasekhara ', 'Chola dynasty']@@nt
+['Kingdom of Jerusalem', "Knight's Templar"]@@nt
+['English rebels', 'Kingdom of France', 'Kingdom of Scotland', 'County of Flanders', 'County of Boulogne', 'Duchy of Brittany']@@nt
+['Ulster', 'Mide', 'Leinster', 'Munster', 'Connacht']@@nt
+['Emperor Sutoku']@@nt
+['Estonians', 'Oeselians', 'Semigallians', 'Curonians', 'Latgallians', 'Selonians', 'Livonians', 'Prussians', 'Polabian Slavs']@@nt
+['Herero', ' and ', 'Namaqua', ' peoples']@@nt
+['Venice']@@nt
+['Armenian fedayees']@@nt
+['Livonian order']@@nt
+['Ilkhanate']@@nt
+['Monaco']@@nt
+['Ecuador', 'Eloy Alfaro', ' loyalists)']@@nt
+['Rebels of ', 'Esmeraldas Province']@@nt
+['Yomud Turkomans']@@nt
+['Kurdish', ' rebels', 'Supported by:', 'Russian Empire', '[29]']@@nt
+['Kurdish', ' rebels']@@nt
+['Truku Tribe']@@nt
+[' Albanian Muslim pro-Ottoman rebels']@@nt
+['Bussa warriors']@@nt
+['5th Native Light Infantry sepoys']@@nt
+['Central Powers', 'German Empire', 'Austria-Hungary', 'Ottoman Empire', 'Bulgaria', ' (1915–18)', '...', 'and co-belligerents']@@nt
+['Mohmands']@@nt
+[' Basmachi', 'Khiva', '(1918–20)', 'White Army', '(1919–20)', '[35]', 'Bukhara', '(1920)', 'Supported by:', 'Emirate of Afghanistan', '(Until mid-1922)', '[36]', 'Afghanistan', '(1929)', '[37]']@@nt
+['Dominican rebels']@@nt
+['Irish Republican Brotherhood', 'Irish Volunteers', 'Irish Citizen Army', 'Cumann na mBan', 'Hibernian Rifles', 'Fianna Éireann']@@nt
+['Ngolok Tribesmen']@@nt
+['First Czechoslovak Republic', ' (until 1938)', 'Second Czechoslovak Republic', ' (1938-1939)', 'First Slovak Republic', ' (1939-1945)', 'Third Czechoslovak Republic', ' (1945-1948)', 'Czechoslovak Socialist Republic', ' (1948-1958)']@@nt
+['Serb National Council at Timișoara', 'Serb National Council at Pančevo', "Timișoara Citizens' Guard", '"', 'Octobrists', '"', 'Green cadres', 'Socialist', ' rebels', 'Romanian', ' rebels']@@nt
+['Finnish White Guards', 'Finnish Jäger troops']@@nt
+['Greece', 'France', 'Armenia', '(in 1920)', 'United Kingdom', 'Ottoman Empire', '(until 1922)', 'Kuva-yi Inzibatiye', '(in 1920)', 'Italy', 'Georgia', '(in 1921)']@@nt
+[' Syrian insurgents']@@nt
+['Silesian', ' Rebels']@@nt
+['Anhui clique']@@nt
+['Armenian Revolutionary Federation']@@nt
+['Ikhwan', " ('Utaybah tribe)"]@@nt
+['Panama']@@nt
+['Russian SFSR', 'Turkey', 'Azerbaijan SSR']@@nt
+['Nestorians']@@nt
+['Kingdom of Hejaz']@@nt
+['Comintern']@@nt
+['Warrant Chiefs', 'British Colonial Forces']@@nt
+['Anushilan Samiti']@@nt
+['Shinwari', ' tribesmen']@@nt
+['Chilean Navy', ' rebels']@@nt
+['Communist Party of Chile']@@nt
+['Greek Cypriot rebels']@@nt
+['Kurdish rebels']@@nt
+['Social Democratic Party of Austria']@@nt
+['Kingdom of Iraq', 'Nazi Germany', 'Kingdom of Italy']@@nt
+['Ukrainian Insurgent Army']@@nt
+['Kinabalu Rebels']@@nt
+['Forest Brothers']@@nt
+['Goryani']@@nt
+['Republic of China', 'National Revolutionary Army']@@nt
+['Cursed soldiers']@@nt
+['Nazi Germany']@@nt
+['Rebel tribes', 'Zadran', 'Mangal', 'Safi']@@nt
+['Badinzai rebels']@@nt
+['Pennsylvania Dutch', ' Farmers']@@nt
+['André Rigaud']@@nt
+['Sultanate of Mysore']@@nt
+['British Army', 'Royal Navy', 'Royal Air Force', 'Palestine Police Force']@@nt
+[' Counter-revolutionary peasants']@@nt
+['Second Coalition:', 'Habsburg Monarchy', 'Holy Roman Empire', '[20]', 'Great Britain', '(until 1801)', 'United Kingdom', '(from 1801)', 'Russia', '(until 1799)', 'French Royalists', 'Portugal', 'Kingdom of Naples', 'Ottoman Empire']@@nt
+['Polish Rebels']@@nt
+['Rebel schoolchildren']@@nt
+['Woyanne rebels']@@nt
+['Kurdish rebels', 'Barzani tribesmen', 'Allied Kurdish tribes']@@nt
+['Partisans', 'Chetniks']@@nt
+['Hukbalahap', 'Soviet Union', 'Japan']@@nt
+['Kurdish tribes']@@nt
+['Finland', 'Nazi Germany', 'Kingdom of Italy']@@nt
+['Serb rebels from eastern Herzegovina and Montenegro']@@nt
+['Miao', ' rebels']@@nt
+['Carib slaves']@@nt
+['Dharug Nation', 'Eora Nation', 'Tharawal Nation', 'Gandangara Nation']@@nt
+['Kartli-Kakheti', 'Imereti']@@nt
+['White Lotus', ' society']@@nt
+['Slaves']@@nt
+['Mercenaries']@@nt
+['Chickamauga Cherokee']@@nt
+['Iron Guard']@@nt
+['Estonia', 'Latvia', 'Lithuania']@@nt
+['Vichy France', 'French Indochina']@@nt
+['Kingdom of Kottayam']@@nt
+['Society of United Irishmen', 'Defenders', 'French First Republic']@@nt
+['Ottoman Tripolitania']@@nt
+['Vendéens', 'Chouans', 'Émigrés', 'Great Britain']@@nt
+['Party of Haradutta Bujarbarua']@@nt
+['First Coalition:', 'Habsburg Monarchy', 'Holy Roman Empire', '[20]', 'Prussia', '(until 1795)', 'Great Britain', 'French Royalists', 'Spain', '(until 1795)', 'Portugal', 'Sardinia', 'Naples', 'and Sicily', 'Other Italian states', '[21]', 'Ottoman Empire', 'Dutch Republic', '(until 1795)']@@nt
+[' Provisional Popular Revolutionary Government of ', 'Chechnya', '-', 'Ingushetia', 'Supported by', 'Germany', ' (1942)']@@nt
+['French First Republic', 'Polish Legions']@@nt
+['Carpatho-Ukraine']@@nt
+['Spanish Maquis']@@nt
+['Slovak Republic']@@nt
+['Axis Powers', 'Germany', 'Japan', 'Italy', 'Romania', 'Hungary', 'Bulgaria', 'Slovakia', 'Croatia', 'Finland', 'Thailand', 'Iraq']@@nt
+['Albanian Kingdom']@@nt
+['Peasant rebels']@@nt
+['Zand dynasty']@@nt
+['Ainu rebels']@@nt
+['Pemulwuy']@@nt
+['Indigenous Australians']@@nt
+['Kingdom of Nepal']@@nt
+['Frontier tax protestors']@@nt
+['Dersim tribes']@@nt
+['Degar', ' Rebels']@@nt
+['Empire of Japan', 'Reorganized National Government of China', 'Manchukuo', 'Mengjiang']@@nt
+['Waziristan']@@nt
+['Republican faction', 'Spanish Republican Army', 'Popular Front', 'CNT', '/', 'FAI', 'UGT', 'ERC', 'Basque Army', '(1936–1937)', 'Galicianist Party', 'Supported by:', 'International Brigades', 'Soviet Union', '(1936–1938)', 'Mexico', 'France', '(1936)']@@nt
+['States of Holland', 'Patriots']@@nt
+['Daniel Shays', ' and rebels']@@nt
+['Norwegian Peasants']@@nt
+['Revolutionary Armed Organization']@@nt
+[' Righteous Army']@@nt
+['Arab Higher Committee']@@nt
+['Hungarian National Socialist Party']@@nt
+['Iraqi Government']@@nt
+['Shia tribesmen']@@nt
+['Brazilian Communist Party']@@nt
+['Ethiopian Empire']@@nt
+['Yazidis']@@nt
+['Bazaaris']@@nt
+['Sakdalista']@@nt
+['Mohmand', ' tribesmen']@@nt
+['Western Confederacy', 'British Canada']@@nt
+['Siam', 'Nguyen lords']@@nt
+['Zanzibar']@@nt
+['Lesser Nogai Horde']@@nt
+['Kingdom of Leinster', 'Kingdom of Dublin']@@nt
+['Norway']@@nt
+['Somogy']@@nt
+['Peasants']@@nt
+['Song dynasty']@@nt
+['Phokas clan', 'Principality of Tao-Klarjeti', 'Buyid Dynasty', ' Faction of ', 'Bardas Skleros']@@nt
+['Khamba Tribesmen']@@nt
+['Yemen']@@nt
+['Generalitat of Catalonia']@@nt
+['Latvia']@@nt
+['Austrian Legion']@@nt
+['Kingdom of Maui', 'Kingdom of Kauai', "Kingdom of O'ahu"]@@nt
+['Comuneros']@@nt
+['Jahriyya', ' Sufi Muslims']@@nt
+['Sultanate of Mysore', 'France', 'Dutch Republic']@@nt
+['Henry II']@@nt
+['Sylheti', ' Muslim rebels']@@nt
+['Dutch Republic', 'France']@@nt
+['Xhosa tribesmen']@@nt
+['Bulgarian Empire', "Kievan Rus'", ' (970–971)', 'Pechenegs']@@nt
+["Kievan Rus'", 'Pechenegs', 'Magyars', 'Bulgaria']@@nt
+['Asturian Miners']@@nt
+['Imperial Way Faction']@@nt
+['Dutch Navy rebels']@@nt
+['Soviet Union', 'White Russian', ' forces', 'Torgut', ' Mongols']@@nt
+['Kingdom of Prussia', 'Electorate of Saxony']@@nt
+['Cherokee people']@@nt
+['Great Britain', 'Loyalists', 'German mercenaries', 'Co-belligerents', 'Onondaga', 'Mohawk', 'Cayuga', 'Seneca', 'Cherokee']@@nt
+['Maratha Empire']@@nt
+['Magyars']@@nt
+['Taira no Masakado']@@nt
+['Southern Han']@@nt
+['Veleti']@@nt
+['Spanish Anarchists']@@nt
+['Khanty', ' rebels']@@nt
+['Rebels under Prince Boworadet']@@nt
+['Clergy']@@nt
+['Shawnees', 'Mingos']@@nt
+['Fakirs', 'Sannyasis']@@nt
+['Cossack', ' and ', 'peasant', ' rebels', 'Tatar', ' and ', 'Bashkir', 'nobles']@@nt
+['Rioters']@@nt
+['Denmark']@@nt
+['Morans']@@nt
+['Black Caribs']@@nt
+['Sajids']@@nt
+['Fatimid Caliphate']@@nt
+['Byzantine Empire', 'Magyars']@@nt
+['Byzantine Empire', 'Principality of Serbia']@@nt
+['Paulicians']@@nt
+['Japan', 'Manchukuo', 'Japanese Korea']@@nt
+['Zanj']@@nt
+['Bolivia']@@nt
+['Rebel Officers']@@nt
+['Salvadoran peasants']@@nt
+['Lapua movement']@@nt
+['Kirghiz rebels']@@nt
+['Anti-communist rebels']@@nt
+['League of Blood']@@nt
+['Corsican Republic']@@nt
+['Haidamaky', ' Cossacks']@@nt
+[' Bar Confederation', 'Kingdom of France']@@nt
+['Ottoman Empire', 'Crimean Khanate']@@nt
+['Creole', ' rebels ', 'German', ' rebels']@@nt
+['British East India Company', 'Maratha Confederacy', 'Nawab of the Carnatic', 'Hyderabad State']@@nt
+['British East India Company', 'Zamorin of Calicut', 'Travancore']@@nt
+['Kingdom of Italy', 'East Francia', 'Middle Francia', 'Great Moravia', 'Byzantine Empire', 'Catalan Counties', 'Al-Andalus', 'First Bulgarian Empire', 'Khazaria', 'West Francia', 'Principality of Pannonian Croatia', 'Principality of Littoral Croatia', 'Kingdom of Croatia', 'Principality of Serbia']@@nt
+['Emperor Wenzong of Tang']@@nt
+['Ösung']@@nt
+['Paphlagonia']@@nt
+['São Paulo']@@nt
+['Frankish Kingdom']@@nt
+['Barzan tribe']@@nt
+['Circassia', 'Caucasian Imamate', ' (Western)', 'Sadzen']@@nt
+['Mayans']@@nt
+['Anglo-Saxons']@@nt
+['Berbice slaves']@@nt
+['Pontiac', "'s confederacy", 'Seneca']@@nt
+['First East Turkestan Republic']@@nt
+['Irish Kingdoms']@@nt
+['Spain', 'France']@@nt
+['China']@@nt
+['Alids']@@nt
+['Mudhari (', 'Qaysi', ') Tribal Federation']@@nt
+['Elpidius', "' loyalists ", 'Sicily']@@nt
+['unknown']@@nt
+['Armenian Princes']@@nt
+['Saxons']@@nt
+['Fujiwara no Nakamaro']@@nt
+['Sakurakai']@@nt
+['Mutawakkilite Kingdom of Yemen']@@nt
+['Altishahr Khojas']@@nt
+['Tang Dynasty', 'Karluk', ' mercenaries']@@nt
+['France', 'Austria', 'Russia', '(until 1762)', 'Spanish Empire', '(from 1761)', 'Sweden', '(1757–62)', 'Saxony', 'Mughal Empire', '(from 1757)']@@nt
+['Zayd ibn Ali']@@nt
+['Fujiwara no Hirotsugu']@@nt
+['Copán']@@nt
+['Tkdaya', '[52]']@@nt
+[' Liberal Alliance and ', 'tenentistas', '.', 'Brazilian Army']@@nt
+['Burmese Rebels']@@nt
+['Vietnamese rebels']@@nt
+['Empress Zewditu supporters']@@nt
+['Guaraní', ' Tribes']@@nt
+['Restored Hanthawaddy Kingdom', 'French East India Company']@@nt
+['Anti-Dutch rebels']@@nt
+['France', 'French East India Company', 'Nawab of Arcot']@@nt
+['France', 'New France', 'Abenaki', 'Algonquin', 'Caughnawaga Mohawk', 'Lenape', "Mi'kmaq", 'Ojibwa', 'Ottawa', 'Shawnee', 'Wyandot']@@nt
+['Kingdom of France', 'French East India Company']@@nt
+['Jacobites', 'Kingdom of France']@@nt
+['Hayato']@@nt
+['Neustrian Nobility']@@nt
+[' Forces of the coalition of ', 'Yan Xishan', ', ', 'Feng Yuxiang', ', ', 'Wang Jingwei', ', and ', 'Li Zongren']@@nt
+['VNQDD']@@nt
+['Saqqawists']@@nt
+['Boholano', ' nation']@@nt
+['Javanese rebels']@@nt
+['Austrian Empire']@@nt
+['Palenque']@@nt
+['Zubayrids', 'Alids']@@nt
+['Principalities of ', 'Tokharistan', 'Sogdian', ' principalities ', 'Khwarazm', 'Fergana', 'Türgesh Kaghanate', 'Tang Dynasty']@@nt
+['Dos Pilas']@@nt
+['Nghệ-Tĩnh Soviets']@@nt
+['Afridi', ' tribesmen']@@nt
+['Habsburg Monarchy', 'Great Britain', 'Hanover', 'Dutch Republic', 'Saxony', '(1743–45)', 'Kingdom of Sardinia', 'Russia', '(1741–43, 1748)']@@nt
+['Bashkirs']@@nt
+['Poland loyal to Augustus', 'Russian Empire', 'Habsburg Empire of Austria', 'Saxony', 'Kingdom of Prussia']@@nt
+['Janissaries']@@nt
+['Tang']@@nt
+['Baekje', 'Yamato', 'Goguryeo']@@nt
+['Western Turkic Khaganate']@@nt
+['Xueyantuo']@@nt
+['Kucha']@@nt
+['Byzantine Empire', 'Berbers']@@nt
+['Karasahr']@@nt
+['Goguryeo', 'Baekje', 'Mohe']@@nt
+['Estates of East Frisia']@@nt
+['Salpterisch Faction']@@nt
+['Wabanaki Confederacy', 'Abenaki', 'Pequawket', "Mi'kmaq", 'Maliseet']@@nt
+['France', 'Choctaw', 'Illini']@@nt
+['Anti-', 'Jesuits']@@nt
+['Indian Rebels']@@nt
+['Rai dynasty']@@nt
+['Gaochang']@@nt
+['States of the ', 'Tarim Basin']@@nt
+['Tibetan Empire']@@nt
+['Tuyuhun']@@nt
+['Byzantine Empire', 'Ghassanids']@@nt
+['Sassanid Empire', 'Arab Christians']@@nt
+['Escobar rebels']@@nt
+['Gbaya rebels']@@nt
+['Shinwari tribesmen', ' (14 November–December 1928)', 'Saqqawists', ' (late November 1928 onwards)', 'In cooperation with:', 'Basmachi', ' (1929)']@@nt
+['Dzungar Khanate']@@nt
+['Rival claimants to Mataram throne', 'Rebel Princes']@@nt
+['Spain', 'Jacobites']@@nt
+['Safavids']@@nt
+['Scottish and English ', 'Jacobite Rebels']@@nt
+['Yamasee', 'Ochese Creeks', 'Catawba', ' (until 1715)', 'Cherokee', ' (until 1716) ', 'Waxhaw', 'Santee']@@nt
+['Abbey of Saint Gall', 'Canton of Lucerne', 'Canton of Uri', 'Canton of Schwyz', 'Canton of Unterwalden', 'Canton of Zug', 'Valais', 'Freie Ämter']@@nt
+['Republic of Venice', 'Habsburg Austria', 'Portugal', 'Order of Malta', 'Papal States', 'Spain', '[18]', 'Himariotes']@@nt
+['Francia']@@nt
+['Hawazin', 'Thaqif']@@nt
+['Eastern Turkic Khaganate']@@nt
+['Sasanian Empire', 'Jewish', ' rebels']@@nt
+['Quraysh tribe']@@nt
+['Iraqi', ' Police force']@@nt
+['Nationalist Party of China', 'Republic of China', 'After 1949:', 'Republic of China', ' on ', 'Taiwan']@@nt
+['Republic of Ararat']@@nt
+[' Cristeros']@@nt
+['Nicaraguan', ' Liberals (rebels)']@@nt
+['Shikak', ' tribesmen', 'Herki', ' tribesmen', 'Begzadeh', ' tribesmen']@@nt
+['Huilliches']@@nt
+['Southern ', 'Tuscarora', 'Pamplico', 'Cothechney', 'Coree', 'Mattamuskeet', 'Matchepungo']@@nt
+['Alam ad-Din clan of Chouf ', 'Arslan', ' clan of Gharb ', ' Al-Sawaf clan']@@nt
+['Party of ', 'Edward Hyde']@@nt
+['Tsardom of Russia', 'Cossack Hetmanate', '(fraction of ', 'Ivan Skoropadsky', 'Moldavia']@@nt
+['Safavid dynasty']@@nt
+['Early Lý Dynasty']@@nt
+['Frisian Kingdom']@@nt
+['Hephthalite', ' principalities ', 'Western Turkic Khaganate']@@nt
+['Avar Khaganate', 'Antae']@@nt
+['Hermenegild', "'s loyalists ", 'Chalcedonian Christian', ' rebels']@@nt
+['Kingdom of Aksum']@@nt
+['Sassanid Persian Empire', 'Lakhmids', 'Armenians']@@nt
+['Syrian rebels']@@nt
+['Guominjun', 'Zhili clique', '  (until February 1918)']@@nt
+['Kurdish', ' tribesmen']@@nt
+['Mahsud tribesmen']@@nt
+['São Paulo province settlers']@@nt
+['Faction of ', 'Muhammad Azam Shah', ' Faction of ', 'Muhammad Kam Bakhsh']@@nt
+['Bavarian peasants']@@nt
+['Bashkir rebels']@@nt
+['Sandomierz Confederation']@@nt
+['Kurucs', 'Kingdom of Hungary', 'Kingdom of France']@@nt
+['Kingdom of Imereti', 'Principality of Guria', 'Principality of Mingrelia']@@nt
+['Gepids', 'Byzantine Empire']@@nt
+['Communist Party of Indonesia']@@nt
+['France', 'New France', 'Spain', 'New Spain', 'Wabanaki Confederacy', 'Caughnawaga Mohawk', 'Choctaw', 'Timucua', 'Apalachee', 'Natchez']@@nt
+['Caracol']@@nt
+['Funan']@@nt
+['Ostrogothic Kingdom', 'Frankish Kingdom']@@nt
+['Rebel tribes', 'Mangal', 'Alikhel', 'Sulaimankhel', 'Jaji', '[45]', 'Jadran', '[46]', 'Ahmadzai', '[47]']@@nt
+['Committee for Independence of Georgia']@@nt
+['Tenentista', ' movement']@@nt
+['Kingdom of France', 'Spain loyal to Philip', 'Bavaria', '(until 1704)']@@nt
+['Swedish Empire', 'Holstein-Gottorp', 'Poland–Lithuania', ' (1704–09)', 'Ottoman Empire', ' (1710–14)', 'Cossack Hetmanate', ' (1708–09)', 'England', ' (1700)', 'Great Britain', ' (1719–21)', 'United Provinces', ' (1700)', 'Brunswick-Lüneburg', ' (1700)']@@nt
+['Amerindians']@@nt
+['Streltsy']@@nt
+['Royal African Company']@@nt
+['Agermanats']@@nt
+['Kingdom of Thuringia']@@nt
+['Vandalic Kingdom']@@nt
+['Vitalian', ' loyalists ', 'Chalcedonian Christian', ' rebels']@@nt
+['Bulgarian Communist Party', 'Bulgarian Agrarian National Union', 'Anarchists']@@nt
+['Senussi Order']@@nt
+['Sheikhdom of Mohammerah', ' (1922–1924)', 'DRFLA', ' (1979–1980)', 'APCO', '[', 'citation needed', ']', 'PFLA', '[', 'citation needed', ']', 'AFLA', '[', 'citation needed', ']', 'ASMLA', 'Iranian Arab protesters']@@nt
+['Communist Party of Germany']@@nt
+['Ute', 'Paiute']@@nt
+['Sultan al-Adwan', "'s forces"]@@nt
+['Monarchist Rebels']@@nt
+['Christian rebels']@@nt
+['England', 'English America', 'Iroquois Confederacy']@@nt
+['Irish Jacobites', 'France']@@nt
+['France', 'Irish and Scottish Jacobites']@@nt
+['Catalan Rebels']@@nt
+['Banu Bakr']@@nt
+['Kingdom of Soissons']@@nt
+['Kingdom of Italy', 'Scirii', 'Heruli']@@nt
+['Roman Dalmatia']@@nt
+['Western Roman Empire', 'Eastern Roman Empire']@@nt
+['Huns', 'Alans']@@nt
+['Christian Armenian Rebels']@@nt
+['Alizai']@@nt
+['Tenentismo', 'Brazilian Communist Party']@@nt
+[' Sheikhdom of Mohammerah', 'Bakhtiari Tribesmen']@@nt
+[' Schaererists']@@nt
+['Rebel forces loyal to ', 'Alluri Sitarama Raju']@@nt
+[' Anti-treaty forces']@@nt
+['Bulgarian rebels']@@nt
+['Bondelswarts']@@nt
+['Duke of Monmouth']@@nt
+['Spanish Empire', 'Holy Roman Empire', 'Republic of Genoa']@@nt
+['Ladakh', 'Mughal Empire']@@nt
+['Puebloans']@@nt
+['Chagatai Khanate', 'Yarkent Khanate', ') ', 'Isḥāqi', ' Naqshbandi Sufi Khojas']@@nt
+['Flavius Aetius']@@nt
+['Copán', 'Quiriguá']@@nt
+['Eastern Roman Empire', 'Western Roman Empire', 'Franks', 'Goths', 'Burgundians', 'Saxons', 'Alans', 'minor Germanic and Gallic tribes']@@nt
+['troops of ', 'Gildo']@@nt
+['Picts', 'Saxons', 'Scots']@@nt
+[' Sheikh Kulaib']@@nt
+['Miners ', 'South African Communist Party', 'Syndicalists']@@nt
+['Finnish and East Karelian rebels']@@nt
+[' Iranian Qajar police', 'Jangalis', 'Simko', 'Kurdish', ' rebels', 'Colonel Pesian', "'s forces", 'supported by:', 'Soviet Union']@@nt
+['Rongyos Gárda', 'Lajtabánság', 'Bosnian', ' and ', 'Albanian', 'Muslim', ' volunteers']@@nt
+['Khilafat Movement']@@nt
+['Communist Party of Germany', "Communist Workers' Party of Germany"]@@nt
+['Loyalists']@@nt
+['Ottoman Empire', 'Crimean Khanate', 'Cossack Hetmanate of Petro Doroshenko']@@nt
+['Bogd Khaanate', 'White Guards']@@nt
+['Muradid dynasty']@@nt
+['Denmark-Norway', 'United Provinces', 'Brandenburg', 'Holy Roman Empire']@@nt
+['Wampanoag', 'Nipmuck', 'Podunk', 'Narragansett', 'Nashaway']@@nt
+['Tax Resisters']@@nt
+['Rebel forces', 'Makassarese itinerant fighters']@@nt
+['England', 'France']@@nt
+['Former Qin']@@nt
+['Three Feudatories', 'Kingdom of Tungning']@@nt
+['Dutch Republic', 'Holy Roman Empire', 'Spain', 'Brandenburg']@@nt
+["Waka'", 'Tikal', 'Uaxactun', 'Bejucal', 'El Zotz']@@nt
+['Picts', 'Scotti', 'Attacotti', 'Saxons', 'Franks', 'Roman deserters']@@nt
+['Jewish', ' rebels']@@nt
+['Ostrogoths', 'Franks']@@nt
+['Albona Republic']@@nt
+[' Anarchist Sailors']@@nt
+['Rif Republic']@@nt
+['Dagestani Rebels']@@nt
+['Chinese Revolutionary Party']@@nt
+['Polish–Lithuanian Commonwealth', 'Principality of Wallachia', ' (in 1673)']@@nt
+['Old Believers']@@nt
+['Russian peasants']@@nt
+['Crimean Khanate', 'Zaporozhian Cossacks', 'Ottoman Empire']@@nt
+['Carausius']@@nt
+['rebellious mint workers']@@nt
+['Vandals', 'Juthungi', 'Sarmatians', 'Alamanni', 'rebellious mint workers ', 'Goths', 'Palmyrene Empire', 'troops of ', 'Firmus', 'Province of Egypt', 'Sassanid Empire', 'Gallic Empire']@@nt
+['Eastern Wu']@@nt
+[' Armenian ', 'Bolsheviks', ' Muslims of Armenia']@@nt
+[' Georgian ', 'Bolsheviks']@@nt
+['Far right ', 'Freikorps']@@nt
+['Red Ruhr Army']@@nt
+['House of Kimpanzu']@@nt
+['League of the Rhine']@@nt
+['Polish Nobility']@@nt
+['Sultan ', 'Muhyiddin', "'s Forces"]@@nt
+['Goths']@@nt
+['Roman Empire', 'Tanukhids']@@nt
+['Juthungi']@@nt
+['Goguryeo', 'Okjeo', 'Ye']@@nt
+['Various ', 'Barracks emperors', 'Various ', 'Usurpers', ', co-emperors, high officials and claimants to the throne ', 'Sassanid Empire']@@nt
+['Bosnian miners']@@nt
+['Iraqi Rebels']@@nt
+['Shu', ' rebels ', 'Nanman']@@nt
+['Syrian', ' Rebels']@@nt
+['Ottoman Empire', 'Kuva-yi Inzibatiye', '(in 1920)', 'Pontic rebels', ' Milli tribe', 'Koçgiri', ' tribe', ' Rebels of ', 'Ethem the Circassian', '(1920-1921)']@@nt
+['Ikhwan', 'Bedouins']@@nt
+['Kingdom of Greece', 'Supported by:', 'United Kingdom', ' Armenian volunteers']@@nt
+["Ma'ani Druze Rebels"]@@nt
+['Waldensians']@@nt
+['Frontiersmen']@@nt
+['Poland–Lithuania', 'Denmark–Norway', 'Habsburg Monarchy', 'Russia', ' (1656–58)', 'Crimean Khanate', 'Brandenburg-Prussia', ' (1655–56, 1657–60)', 'Dutch Republic']@@nt
+['Spain', 'Royalists of the British Isles', '[14]']@@nt
+['New Netherland']@@nt
+['Caledonians']@@nt
+['Garamantes']@@nt
+['Clodius Albinus', "' legions"]@@nt
+['Shanyue', 'Various warlords']@@nt
+['Yellow Turban rebels']@@nt
+['Marcomanni', 'Quadi', 'Iazyges']@@nt
+['Russian SFSR', 'Ukrainian SSR']@@nt
+['Jews of ', 'Iudaea', ' under ', 'Simon Bar Kokhba']@@nt
+['Polish–Lithuanian Commonwealth', 'Crimean Khanate']@@nt
+['Bremen']@@nt
+['Swedish Peasants']@@nt
+['Peasant forces from', 'Lucerne', 'Bern', 'Solothurn', 'Basel', 'Aargau']@@nt
+['Tsardom of Russia', 'Cossacks']@@nt
+['Republic of the Seven United Netherlands']@@nt
+['Ronin']@@nt
+['Polish peasants']@@nt
+['Palatinate-Neuburg']@@nt
+['Jews of ', 'Cyprus', ', ', 'Cyrenaica', ', ', 'Aegyptus', ', ', 'Mesopotamia', ' and ', 'Iudaea']@@nt
+['Dacian Kingdom']@@nt
+['Northern Xiongnu']@@nt
+['Batavi', 'Cananefates', 'Frisii', 'Lingones', 'Treveri']@@nt
+['Judean', ' rebels: ', 'Sadducees', ' and Volunteers from ', 'Adiabene']@@nt
+['Iceni', ', ', 'Trinovantes', ', and other ', 'British tribes', '.']@@nt
+['First Hungarian Republic', ' (until 21 March 1919)', 'Hungarian Soviet Republic']@@nt
+['Celtic Britons']@@nt
+['Ukrainian rebels']@@nt
+['Kurdish Tribesmen']@@nt
+['Lithuanian', ' Sejny Command ', ' 1st Reserve Battalion']@@nt
+['West Russian Volunteer Army']@@nt
+['Communist Party of Germany', 'Spartacus League', 'Independent Social Democratic Party of Germany']@@nt
+['Montenegrin Greens', 'Kingdom of Italy']@@nt
+['Monarchy of the North']@@nt
+['Irish Catholic Confederation', ',', 'English Royalists']@@nt
+['Royalists', 'Scottish Covenanters']@@nt
+['Royalist forces', 'Scotland']@@nt
+['Parlements', ' (1648–1649)', 'Princes of the Blood', ' (1650–1653)']@@nt
+['Polish–Lithuanian Commonwealth', 'Crimean Tatars', ' (1654–1656)']@@nt
+['Chatti']@@nt
+['Republic of Venice', 'Knights of Malta', 'Papal States', 'France', 'Maniots']@@nt
+['Xin dynasty', 'Gengshi Emperor']@@nt
+['Iceni']@@nt
+['Xin dynasty']@@nt
+['Dongbuyeo']@@nt
+['British tribes']@@nt
+['Yue']@@nt
+['Marcomanni']@@nt
+['Musulamii', 'Numidia']@@nt
+['North Ingria', ' Finnish volunteers']@@nt
+['France', 'French Armenian Legion']@@nt
+['Hmong rebels']@@nt
+['Russian Soviet Federative Socialist Republic', 'Lithuanian-Belorussian Soviet Socialist Republic']@@nt
+['Russian SFSR', 'Commune of Estonia', 'Latvian SSR']@@nt
+['Sanhadja', 'Berber', ' tribes']@@nt
+['Russian SFSR', 'Latvian SSR']@@nt
+['Scottish ', 'Royalists', ' and ', 'Irish Catholic Confederate', ' troops']@@nt
+['Denmark-Norway', 'Holy Roman Empire']@@nt
+['The ', 'Farnese', 'Dukes of Parma']@@nt
+['Irish Catholic Confederation', '(allied with Royalists 1648–1650)', 'English and Scottish Royalists', '(allied with Irish Confederates 1648–1650)']@@nt
+['English and Scottish Royalists']@@nt
+['Algonquian', 'France']@@nt
+['Castile and Aragon']@@nt
+['Principality of Catalonia', 'France']@@nt
+['Daesitiates', 'Breuci', 'Dalmatae', 'Andizetes', 'Pannonians', 'Pirustae', 'Liburnians', 'Japodes']@@nt
+['Cantabri', 'Astures']@@nt
+['Ptolemaic Egypt', ' and the supporters of ', 'Mark Antony']@@nt
+['Forces of Fulvia and Lucius Antonius']@@nt
+['Sextus Pompeius', ' and his troops']@@nt
+['Liberatores']@@nt
+['Azerbaijan Democratic Republic', 'Ottoman Empire', ' (1918 only)', 'Russian SFSR', ' (from April 1920)', 'Turkish National Movement', ' (from April 1920)']@@nt
+['First Czechoslovak Republic']@@nt
+["West Ukrainian People's Republic"]@@nt
+[' Pro-', 'Bolshevik', ' Ossetian rebels']@@nt
+['Republic of German-Austria']@@nt
+['Royalist Forces', 'German Empire', ' (1918)', 'Imperial German Army', 'Communist Forces', 'Bavarian Soviet Republic', 'Spartacus League', 'German Communist movements']@@nt
+[' Finnish volunteers']@@nt
+[' Scottish ', 'Royalists', 'England']@@nt
+['Cossaks']@@nt
+['Christian peasants']@@nt
+['St. John Administration', 'Massachusetts Bay Colony']@@nt
+['Spain', 'Royalists of the British Isles', ' (from 1657)', '[14]']@@nt
+['Cossacks']@@nt
+['Roman Senate', 'Optimates']@@nt
+['Gallic tribes', 'Belgic tribes', 'British tribes', 'Aquitanian tribes', 'Germanic tribes', 'Iberian tribes']@@nt
+['Sadducees']@@nt
+['Iberian Kingdom', 'Caucasian Albania']@@nt
+['Britons']@@nt
+['Kingdom of Pontus', 'Kingdom of Armenia']@@nt
+['Army of escaped slaves under ', 'Spartacus']@@nt
+['Bulgarian Agrarian National Union']@@nt
+['Left Socialist Revolutionary Party']@@nt
+['17th Infantry Regiment']@@nt
+['Elements of the Austro-Hungarian Navy']@@nt
+['Rebels', 'Irregular Kurdish militias', 'Ottoman', ' soldiers and mercenaries']@@nt
+['Finnish Red Guards', 'Russian SFSR']@@nt
+['Pequot']@@nt
+['Egba', ' rebels']@@nt
+['Supporting the Duke of Guastalla', 'Holy Roman Empire', 'Spain', 'Duchy of Savoy']@@nt
+['Later Jin']@@nt
+['Polish–Lithuanian Commonwealth', 'Holy Roman Empire']@@nt
+['Populares']@@nt
+['Kingdom of Pontus']@@nt
+['Cities of ', 'Italy', ' under ', 'Marsi', ' and ', 'Samnium']@@nt
+['Kingdom of Pontus', 'Greek rebels']@@nt
+['Hasmonean dynasty']@@nt
+['Wiman Joseon']@@nt
+['Dayuan']@@nt
+['Slaves of ', 'Sicily']@@nt
+[' Guangzhou Military Government']@@nt
+["Ukrainian People's Republic", "West Ukrainian People's Republic", 'White Movement']@@nt
+[' Rebels under ', 'Alexander Kerensky']@@nt
+['White Movement', 'Central Powers', ' (until 1918):', 'Austro-Hungarian Empire', 'German Empire', 'Ottoman Empire', 'Allied Forces', ' (from 1918):', 'Czechoslovakia', 'Republic of China', 'France', 'Kingdom of Greece', 'Kingdom of Italy', 'Empire of Japan', 'Poland', 'Kingdom of Romania', 'Kingdom of Serbia', 'United Kingdom', 'Australia', 'Canada', 'United States', 'Other combatants:', 'Revolutionary Insurrectionary Army of Ukraine', "Ukrainian People's Republic", 'Democratic Republic of Georgia', 'Democratic Republic of Armenia', 'Various ', 'pro-independence movements']@@nt
+['Kingdom of France', 'Duchy of Savoy', 'United Provinces']@@nt
+['England', 'Support:', 'United Provinces']@@nt
+['Vicuñas']@@nt
+['Dian Kingdom']@@nt
+['Cimbri', ', ', 'Teutons']@@nt
+['Nanyue']@@nt
+['Balearic', 'pirates']@@nt
+['Numidia']@@nt
+['Revolting ', 'slaves']@@nt
+['Minyue']@@nt
+['Wu ', 'Chu ', 'Zhao', 'Jiaoxi', 'Jiaodong', 'Zichuan', 'Jinan']@@nt
+['Lusitanian tribes']@@nt
+['Anti draft rebels']@@nt
+['Soldiers under ', 'Lavr Kornilov']@@nt
+['Chetniks']@@nt
+['Ukrainian Separatists']@@nt
+['Bolshevik Party']@@nt
+['Banda natives']@@nt
+['Roman Catholic States and Allies', 'Holy Roman Empire', '[10]', 'Catholic League', 'Austria', 'Bohemia', ' (after 1620)', 'Kingdom of Hungary', '[11]', 'Kingdom of Croatia', '[12]', 'Spain', ' and ', 'its possessions', 'Denmark-Norway', ' (1643–1645)', '[13]']@@nt
+['Ming dynasty', ' (until 1644)', 'Southern Ming', ' (1644–1662)', 'Kingdom of Tungning', '(from 1661)', 'Shun dynasty', ' (1644–1645)', 'Daxi dynasty', ' (1644–1646)']@@nt
+['Tepehuánes', 'Irritillas', 'Acaxee', 'Xiximes', 'Humes']@@nt
+['Independent Maya']@@nt
+['Bastarnae', 'Supported by:', 'Kingdom of Macedonia', 'Odrysian Kingdom', 'Scordisci']@@nt
+['Galatia']@@nt
+['Seleucid Empire', 'Aetolian League', 'Athamania']@@nt
+['Lij Iyasu', ' Loyalists']@@nt
+[' Rebels']@@nt
+['United Kingdom', 'France']@@nt
+['Cochinchina rebels']@@nt
+['Tuareg', ' guerrillas']@@nt
+['Republic of Venice', 'Dutch Republic', 'England']@@nt
+['Duchy of Surabaya']@@nt
+['Toyotomi clan']@@nt
+['Powhatan Confederacy']@@nt
+['Macedon', 'Hierapytna', 'Olous', 'Aetolia', 'Spartan', ' pirates ', 'Acarnania']@@nt
+['Western Chu']@@nt
+['Xiang Liang', "'s troops ", 'Kuaiji', 'revived Kingdom of ', 'Chu']@@nt
+['Rebel tribes', 'Mohmands', 'Bunerwals', 'Swatis']@@nt
+['Chen Sheng', "'s and ", 'Wu Guang', "'s troops ", 'revived Kingdom of ', 'Chu', 'peasants']@@nt
+['Baiyue']@@nt
+['Macedonia', 'Achaean League']@@nt
+['Haiti']@@nt
+['Empire of China']@@nt
+['Supporting Emperor Rudolph', 'Holy Roman Empire', 'Principality of Strasbourg', 'Prince-Bishopric of Liège']@@nt
+['Tribal insurgents']@@nt
+['Senussi', 'Ottoman Empire', 'Darfur Emirate']@@nt
+['Ryūkyū Kingdom']@@nt
+['Dutch Republic', 'Supported by:', 'Kingdom of England', '(until 1640)', 'Johor Sultanate', 'Kingdom of Kandy', 'Kingdom of Kongo', 'Kingdom of Ndongo-Matamba', 'Rio Grande Tupis', 'Nhandui Tarairiu Tribe']@@nt
+['Acaxee', 'Tepehuanos', 'Xiximes']@@nt
+['Macedonian Empire']@@nt
+['Navajo']@@nt
+['Knossos', 'Gortys', 'Kydonia', 'Rhodes', 'Aetolian League']@@nt
+['Dai']@@nt
+['Wu']@@nt
+['Nyasaland rebels']@@nt
+['Han Taiwanese', 'Taiwanese aborigines']@@nt
+[' "Bitterenders"']@@nt
+[' Western Army: forces loyal to ', 'Toyotomi Hideyori']@@nt
+['Sigismund III Vasa']@@nt
+['English Rebels']@@nt
+['Finnish peasants']@@nt
+['Himariote rebels']@@nt
+[' Alliance of ', 'Irish', ' clans', 'Supported by:', 'Spain', 'Scottish Gaelic mercenaries']@@nt
+['Sparta', 'Elis']@@nt
+['Han', 'Zhao', 'Dai', 'Yan', 'Wei', 'Chu', 'Qi']@@nt
+['Turdetani', 'Bastetani', 'Greek colonists', 'Germani', 'Tartessian', ' tribes ', 'Celtiberian', ' tribes']@@nt
+["Carthage's ", 'mercenary', ' army of the ', 'First Punic War', 'Libyans', 'Numidians']@@nt
+['Parthia']@@nt
+['Zaian Confederation']@@nt
+['Rebel tribesmen from ', 'Khost']@@nt
+['House of Lorraine']@@nt
+[' Kingdom of ', 'Cambodia']@@nt
+['Ottoman Empire', 'Crimean Khanate', 'Nogai Khanate']@@nt
+['Swiss peasants']@@nt
+['Toyotomi Japan']@@nt
+['Jaffna Kingdom']@@nt
+['Kalinga']@@nt
+['Greek states, notably ', 'Athens', ' and ', 'Sparta', 'Ptolemaic Egypt']@@nt
+['Epirus', 'Magna Graecia', 'Samnium']@@nt
+['Gelaohui']@@nt
+['Sun Yat-sen', ' southern China provinces']@@nt
+['Internal Macedonian Revolutionary Organization']@@nt
+['Faction of ', 'Maximilian III']@@nt
+['Kingdom of England', 'United Provinces', 'Portuguese loyal to Prior of Crato']@@nt
+['Khanate of Sibir']@@nt
+['Gebhard, Truchsess von Waldburg', ', Prince-Elector, Cologne 1578–1588', 'House of Neuenahr-Alpen', 'House of Waldburg', 'House of Palatinate-Zweibrücken', 'House of Nassau', 'House of Solms-Braunfels', 'and others']@@nt
+['Ottoman Empire', 'Ajuran Sultanate']@@nt
+['Portugal loyal to António, Prior of Crato', 'France', 'England', 'United Provinces']@@nt
+['Iga']@@nt
+['FitzGeralds', ' of ', 'Desmond', 'Spain', 'Papal States', 'allied ', 'Irish clans']@@nt
+['Gojoseon']@@nt
+['Antigonid dynasty']@@nt
+['Bosporans', 'Scythians']@@nt
+['Nanda Empire']@@nt
+['Athens', 'Aetolian League', 'Achaean League', 'Arcadians', 'Corinth']@@nt
+['Portuguese Royalists']@@nt
+[' Contestado']@@nt
+['Independent Party of Color']@@nt
+['Rebel tribes', 'Mangal', 'Jadran', 'Ghilzai']@@nt
+['Safavid Empire', 'Kingdom of Kartli']@@nt
+['Danzig']@@nt
+['Croatian peasants ', ' Slovene peasants']@@nt
+['Ikkō-ikki', 'Saika Ikki', 'Mōri clan']@@nt
+['Holy League', 'Republic of Venice', 'Spain', 'Papal States', 'Kingdom of Naples', 'Republic of Genoa', 'Kingdom of Sicily', 'Grand Duchy of Tuscany', 'Duchy of Urbino', 'Duchy of Savoy', 'Knights of Malta']@@nt
+['Sultanate of Bijapur', 'Ahmadnagar Sultanate', 'Zamorin of Calicut', 'Aceh Sultanate']@@nt
+['Sparta', 'Thracian', ' tribes']@@nt
+['Persian Empire', 'Pauravas', 'Greek city states', 'Thrace', 'Getae', 'Sogdiana']@@nt
+['Samnites', 'Sidicini', 'Aurunci', 'Ausoni', 'Vestini']@@nt
+['Latin League', 'Campanians', 'Volsci', 'Sidicini', 'Aurunci']@@nt
+['Samnites']@@nt
+['Athens', 'Thebes', 'Corinth', 'Megara', 'Achaea', 'Chalcis', 'Epidaurus', 'Troezen']@@nt
+['Phocis', 'Pherae', 'Athens', 'Sparta']@@nt
+['Second Athenian League']@@nt
+['Macedonia']@@nt
+['East Timorese rebels']@@nt
+['Morocco']@@nt
+['Dominican Army', ' conspirators']@@nt
+['Anti Qing rebels']@@nt
+[' Albanian Malësorë (highlanders) and Catholic tribes from ', 'Scutari Vilayet']@@nt
+['Persian Constitutionalists']@@nt
+['Paraguayan', ' government']@@nt
+['Mexican Liberal Party']@@nt
+[' Partisans of ', 'Mary, Queen of Scots', 'English and Welsh Catholics']@@nt
+['FitzGeralds', ' of ', 'Desmond', 'allied ', 'Irish clans']@@nt
+['Spanish Empire', 'Holy Roman Empire']@@nt
+["Queen's Men"]@@nt
+['Dagohoy rebel group', ' other Filipino rebel groups ', 'British supporters']@@nt
+['Moriscos']@@nt
+['Denmark–Norway', 'Free City of Lübeck', 'Poland–Lithuania']@@nt
+['Siam', 'Lan Xang']@@nt
+['Rebel satrapies']@@nt
+['Molossia', 'Sparta', 'Supported by:', 'Thessaly', 'Macedonia']@@nt
+['Forces of Salar-al-Daulah']@@nt
+['Seditionistas', 'Carrancistas']@@nt
+['Villistas']@@nt
+['Soheks', ' rebels']@@nt
+['Karakis']@@nt
+['Kingdom of Portugal']@@nt
+['Protestants', 'Huguenots', 'England', 'Catholics', 'Catholic League', 'Spain', 'Duchy of Savoy']@@nt
+['Irish Rebels']@@nt
+['Tsardom of Russia', 'Kingdom of Livonia']@@nt
+['Ottoman Empire', 'Egypt', 'Barbary States']@@nt
+['Habesh']@@nt
+['France', 'Tupinambá People']@@nt
+['Party of ', 'John IX of Haugwitz']@@nt
+['Delian League']@@nt
+['Samos']@@nt
+['Helots', 'Perioeci']@@nt
+['Etruscans']@@nt
+['Ouaddai Empire']@@nt
+['Druze Rebels']@@nt
+['Creek']@@nt
+['Riffian people']@@nt
+['Zaraniq', ' tribesmen']@@nt
+['Black Hand']@@nt
+['Nicaraguan Liberal Party', ' (Government)']@@nt
+['Rebels under ', 'Thomas Wyatt']@@nt
+['Kazan Khanate', 'Cheremis', ' and ', 'Ar warriors', 'Nogay cavalry']@@nt
+['People of Kazan', 'Chyuvasha', 'Meadow Cheremisa', 'Hill Cheremisa', 'Ar people', 'Nogai Horde']@@nt
+['Kingdom of France', 'Republic of Siena', 'Ottoman Empire']@@nt
+['Imperial City of Nuremberg', 'Prince-Bishopric of Bamberg', 'Imperial City Schweinfurt', 'Bishopric of Würzburg', 'Archbishopric of Mainz', 'Archbishopric of Trier', 'Bishopric of Speyer', 'Electorate of Saxony', 'Duchy of Brunswick-Lüneburg', 'Kingdom of Bohemia', 'Margravate of Meissen']@@nt
+['Catholic rebels']@@nt
+['English peasants']@@nt
+['Ionia', 'Aeolis', 'Doris', 'Caria', 'Athens', 'Eretria', 'Cyprus']@@nt
+['Latin League']@@nt
+['Achaemenid Empire of Persia', 'Other pro-Persian Forces']@@nt
+['Greek', 'Phocaean', 'Colonies of ', 'Alalia']@@nt
+['Haryanka dynasty']@@nt
+['Ariq Böke']@@nt
+['Principality of Arbanon']@@nt
+['Mamluk Sultanate', 'Ayyubids', 'Golden Horde', ' of the Mongol Empire (after 1264)', 'Karamanid', ' Rebels ', 'Abbasid Caliphate']@@nt
+['Republic of Venice', 'Lordship of Athens and Thebes', 'Triarchs of Negroponte', 'Lordship of Salona', 'Marquisate of Bodonitsa']@@nt
+['Kingdom of France', 'Knights Templar']@@nt
+['Henry III, Margrave of Meissen']@@nt
+['Republic of Genoa', 'Philip of Monfort', 'John of Arsuf', 'Knights Hospitaller']@@nt
+['Venezuela']@@nt
+['Republic of Genoa', 'Principality of Achaea']@@nt
+['Wokou']@@nt
+['Kurdish', ' rebels', 'Hamawand', ' tribe', 'Ottoman Empire', 'Abdul Hamid II', ' loyalists)', '(Until 24 July 1908)']@@nt
+['France', 'Ottoman Empire', 'Jülich-Cleves-Berg']@@nt
+['Karangasem', 'Klungkung', 'Gelgel']@@nt
+['Småland', ' peasants']@@nt
+['Ahom kingdom']@@nt
+['Caxcans']@@nt
+['Ottoman Empire', 'Adal Sultanate', 'Ajuran Sultanate', 'Gujarat Sultanate']@@nt
+['Ava Kingdom', 'Confederation of Shan States', 'Mrauk-U Kingdom', 'Prome Kingdom']@@nt
+['Median Empire']@@nt
+['Median Empire', 'Neo-Babylonian Empire', 'Lydian Empire', 'Gandhara Empire', 'Sogdiana']@@nt
+['Kirrha']@@nt
+['forces of the Sultan of ', 'Morocco']@@nt
+['Banate of Bosnia']@@nt
+['House of Nassau']@@nt
+['Drenthe', 'Province of Groningen']@@nt
+[" Most of the local barons in the eastern and southern borderlands of Champagne, united under Erard of Brienne claiming succession by marrying Theobald IV's cousin Philippa.", 'Duchy of Lorraine']@@nt
+['Holy Roman Empire', ' Pro-Imperial faction in the ', 'Kingdom of Jerusalem', 'Principality of Antioch', ' and ', 'County of Tripoli', 'Republic of Pisa', 'Knights Hospitaller', 'Teutonic Knights']@@nt
+['Zakka Khel clan of the ', 'Afridi']@@nt
+['Kingdom of Cyprus', 'House of Ibelin', 'Ayyubid Dynasty']@@nt
+['Honduras']@@nt
+['Romanian peasants']@@nt
+['Hakka', 'Saisiyat']@@nt
+['English Roman Catholics']@@nt
+['Electorate of Saxony', 'Hesse', 'Electorate of the Palatinate', 'Bremen', 'Lübeck', 'Brunswick-Lüneburg', 'Other ', 'Schmalkaldic League', ' territories']@@nt
+['Spanish colonists ', 'Guaraní']@@nt
+['France', 'Ottoman Empire']@@nt
+['Hanthawaddy Kingdom']@@nt
+['Christian II', 'Christopher of Oldenburg', 'Free City of Lübeck', 'Skåne', 'Malmö', 'Copenhagen', 'Zealand']@@nt
+['Anabaptists']@@nt
+['Mạc dynasty']@@nt
+['Kingdom of Judah']@@nt
+['Egypt', ' Remnants of the ', 'Neo-Assyrian Empire']@@nt
+['Yaqui', 'Allies', 'Mayo', 'Opata', 'Pima']@@nt
+['Latins']@@nt
+['Cylon of Athens', 'Megara']@@nt
+['Assyrian Babylon', 'Mesopotamian Sealands', 'Elam', 'Chaldea', 'Guti', 'Amurru kingdom', 'Meluhha', 'Arab', ' tribes']@@nt
+['Faction of Prince Wukui ', '  Faction of Prince Pan ', '  Faction of Prince Shangren ', '  Faction of Prince Yuan ', '  Faction of Prince Yong']@@nt
+['Qara Khitai']@@nt
+['Egypt', 'Kingdom of Kush']@@nt
+['Welfs', 'Flanders', 'England', 'Boulogne']@@nt
+['Llywelyn the Great']@@nt
+['Counts of Toulouse', 'Kingdom of Aragon']@@nt
+['Rebel barons']@@nt
+['Latin Empire of Constantinople', 'Kingdom of Cyprus', 'Sultanate of Rûm', 'Holy Roman Empire', 'Archduchy of Austria', 'Knights Templar', 'Teutonic Knights', 'Knights Hospitaller', 'Kingdom of Hungary', 'County of Holland', 'Kingdom of France', 'Papal States']@@nt
+['Rebel Barons', 'Kingdom of France']@@nt
+['Loon', 'France', 'Staufen', 'Flanders', 'Limburg', 'Brabant', 'Utrecht', 'Liège']@@nt
+['夏', 'Western Xia', '金', 'Jin dynasty', 'Manchuria', '大理國', 'Dali Kingdom', 'Khwarizmian Empire', 'Kara-Khitan Khanate', '宋', 'Song Dynasty', "Kievan Rus'", 'Volga Bulgaria', 'Byzantine Empire', 'Kingdom of Poland', 'Kingdom of Hungary', 'Kingdom of Croatia', 'Kingdom of Serbia', 'Bulgarian Empire', 'Sultanate of Rûm', 'Empire of Trebizond', 'Crusader states', 'Đại Việt', 'Sukhothai Kingdom', 'Mamluk Sultanate', 'Abbasid Caliphate', 'Goryeo', 'Japan', 'Pagan Kingdom', 'Chăm Pa', 'Singhasari']@@nt
+['Latin Empire']@@nt
+['Badung', 'Tabanan', 'Klungkung']@@nt
+['Mesopotamian', ' tribesmen']@@nt
+['Zulu']@@nt
+['South Sulawesi kingdoms of ', 'Bone', ', ', 'Luwu', ' and ', 'Wajo']@@nt
+['Inca Empire', 'Neo-Inca State']@@nt
+['Inca Empire under ', 'Atahualpa']@@nt
+['Habsburg Austria', 'Holy Roman Empire', 'Spain', 'Kingdom of Bohemia', 'Papal States', 'Kingdom of Croatia (Habsburg)', "Ferdinand's Hungarian kingdom"]@@nt
+['Swedish Catholics']@@nt
+['Ottoman Empire', 'Moldavia', "John Szapolyai's Hungarian kingdom", 'Wallachia', 'Serbian Despotate', 'France', '[2]', '[3]', '[4]']@@nt
+['Messenia ', 'Arcadia', 'Sicyon', 'Elis', 'Argos']@@nt
+['Babylonia', 'Chaldea', 'Aramaea', 'Elam']@@nt
+['Adal Sultanate', 'Ottoman Empire']@@nt
+['Ottoman Empire', 'Moldavia']@@nt
+['Chalcis and allies']@@nt
+['Urartu']@@nt
+['Smaller states ', '(consumed by other states)']@@nt
+['Middle Egypt', 'Lower Egypt']@@nt
+[' Forces of ', 'Raymond-Roupen of Antioch', 'Kingdom of Cilicia', 'Knights Hospitaller']@@nt
+['Finno-Ugric people', 'Livonians', 'Estonians', 'Oeselians', 'Baltic people', 'Latgallians', 'Selonians', 'Curonians', 'Semigallians']@@nt
+['Isaac Komnenos of Cyprus']@@nt
+['Ayyubid Dynasty', 'Zengid Dynasty', 'Byzantine Empire']@@nt
+[' Revolutionaries']@@nt
+['Tibetan Buddhists']@@nt
+['Indigenous rebels']@@nt
+['Radical Civic Union']@@nt
+['Maya']@@nt
+['Kingdom of Jerusalem', 'County of Tripoli', 'Principality of Antioch']@@nt
+['Kingdom of Hungary', 'Kingdom of Croatia', 'Kingdom of Bohemia', 'Holy Roman Empire', 'Bavaria', 'Papal States', 'Kingdom of Poland']@@nt
+['Kingdom of Sitawaka', 'Kingdom of Kandy']@@nt
+['Dalarna', ' peasants']@@nt
+['German Peasant Army']@@nt
+['Knights Hospitaller', 'Republic of Venice']@@nt
+['Brotherly Convention’ of Knights']@@nt
+['Aram', 'Kingdom of Israel']@@nt
+['Qajar Iran', 'Nazmiyeh', '[11]', 'Cossack Brigade', '[11]', 'Qajar Iran', 'Cossack Brigade', 'Russian Empire', '[18]', 'Shahsevans', '[14]']@@nt
+['Robber Barons']@@nt
+['Messenia']@@nt
+['Diauehi']@@nt
+['France', 'Papal States', 'Republic of Venice', 'Republic of Florence', 'Kingdom of England', 'Duchy of Milan']@@nt
+['Aram']@@nt
+['Shu Du of Cai']@@nt
+['Shang Dynasty']@@nt
+['Anti-vaccination rebels']@@nt
+['Sea Peoples']@@nt
+['Rebels', 'Malagasy', 'Protestants']@@nt
+['Polish worker militias']@@nt
+['Ugarit']@@nt
+['Palestinian Fedayeen', 'Supported by:', 'Egypt', 'Jordan', 'Syria']@@nt
+['Hazara', ' rebels under Qurban Zawar']@@nt
+['Communist Rebels']@@nt
+['Buydash Khan']@@nt
+['Duchy of Milan']@@nt
+['France', 'Republic of Venice']@@nt
+['Denmark', 'Kalmar Union']@@nt
+["People's Democratic Front ", 'Indonesian Socialist Party']@@nt
+['Comuneros rebels']@@nt
+['Principality of Brunswick-Wolfenbüttel', 'Principality of Calenberg']@@nt
+['Alevi', ' peasants']@@nt
+['Agermanats rebels']@@nt
+['Aztec Triple Alliance']@@nt
+['House of Baux']@@nt
+['Empress Matilda', 'Henry Plantagenet']@@nt
+['Aristocrates']@@nt
+['Kingdom of Hungary', 'Grand Principality of Serbia']@@nt
+['Kingdom of Jerusalem', 'Kingdom of France', 'Holy Roman Empire', 'Kingdom of Portugal', 'Kingdom of Castile', 'County of Barcelona', 'Kingdom of León', 'Byzantine Empire', 'Kingdom of Sicily', 'Kingdom of England']@@nt
+['Fatimid Caliphate', 'Seljuqs']@@nt
+['Anti-government insurgents', ' Pro-', 'North Korean', ' rebels']@@nt
+['Nizari Ismaili state']@@nt
+['Taifa of Majorca', 'Almoravids']@@nt
+['Troy']@@nt
+['Crusaders', 'Kingdom of France', 'Duchy of Burgundy', 'Counts of Blois', 'County of nevers', 'County of Vermandois', 'Duchy of Aquitaine', 'Holy Roman Empire', 'County of Burgundy', 'Duchy of Bavaria', 'Margraviate of Austria', 'Republic of Genoa', 'Byzantine Empire', 'Papal States']@@nt
+['Qing Dynasty', 'Tibet']@@nt
+['Kano Emirate']@@nt
+["Emirate of Ha'il", 'Ottoman Empire']@@nt
+['Cretan Rebels']@@nt
+['Anti-Dutch forces']@@nt
+['House of Obrenović']@@nt
+['CPM', 'MRLA', 'Supported by:', 'Soviet Union', 'China', 'Indonesia', 'North Vietnam', '(from 1954)', 'Viet Minh', '(from 1954)']@@nt
+["Workers' Party of South Korea"]@@nt
+['Anti-government factions:', 'KNU', ' (since 1949)', 'KNLA', 'DKBA', ' (since 2010)', 'Mujahideen', 'Communist Party', ' (1948–1988)', 'Red flags', ' (1948–1978)', 'MNDAA', ' (since 1989)', 'NDAA', ' (since 1989)', 'SSA', ' (since 1988)', 'SSAS', 'SSAN', 'SSNA', ' (1995–2005)', 'WNA', ' (1975–1988)', 'UWSP', ' (since 1988)', 'UWSA', 'KIO', ' (since 1961)', 'KIA', 'PNO', ' (1949–1991)', 'MTA', ' (1985–1996)', "God's Army", ' (1997–2006)', 'ABSDF', ' (Since 1980s)', 'SSVF', ' (1967–1980)', 'RNA', ' (since 1998)', 'TNLA', ' (since 1992)', 'Supported by:', 'ROC', ' (1948–1980s)', 'Thailand', 'Indonesia', 'Turkey', 'United States', 'PRC']@@nt
+['Government of Costa Rica']@@nt
+['Czechoslovak government']@@nt
+['Teutonic Knights']@@nt
+['Prince of Ning']@@nt
+['Royal State of Hyderabad']@@nt
+['Mamluk Sultanate']@@nt
+['Frisian peasants']@@nt
+['Trần Cao', ' rebels']@@nt
+['Egypt', 'Iraq', 'Transjordan', 'Syria', 'HWA', 'ALA', 'Lebanon']@@nt
+['Hungarian peasants']@@nt
+['Württemberg peasants']@@nt
+['Kingdom of Navarre']@@nt
+['Kaska', 'Azzi-Hayasa', 'Mushki']@@nt
+['Slovene', ' rebels']@@nt
+['Mutsu Province']@@nt
+['Muslim Forces', 'Fatimid Caliphate', 'Seljuk Empire', 'Sultanate of Rum', 'Danishmends', 'Seljuk Emirate of ', 'Aleppo', 'Seljuk Emirate of ', 'Damascus', 'Abbasid Caliphate']@@nt
+['Saxon Nobility']@@nt
+['Pala Empire']@@nt
+['Alina', 'Anu', 'Bhrigus', 'Bhalanas', 'Dasa', 'Druhyus', 'Matsya Kingdom', 'Persians', 'Puru', 'Panis']@@nt
+['Ovimbundu Kingdoms', ' Kisanji ', ' Luimbi']@@nt
+['Phu Mi Bun Movement']@@nt
+['Forces loyal to ', 'Kadungure Mapondera']@@nt
+['Malagasy rebels']@@nt
+['Arabs of Palestine', 'Army of the Holy War', 'Arab Liberation Army']@@nt
+[' Anti-communist rebels']@@nt
+['Junagadh']@@nt
+['Liberal Party', 'PRF', 'PCP']@@nt
+['Maharaja ', 'Hari Singh', ' and his ', 'Dogra', ' forces']@@nt
+['Malacca Sultanat', 'Ming', ' China', 'Dutch East India Company', 'Johor Sultanate']@@nt
+['Shia Rebels']@@nt
+['Bijapur Sultanate', 'Ottoman Empire']@@nt
+['Friulian peasants']@@nt
+['Provisional Democratic Government', 'DSE', 'NOF partisans', 'Supported by:', 'Yugoslavia', 'Bulgaria', 'Albania', 'Soviet Union', '(until 1947)']@@nt
+['Hvar rebels']@@nt
+['Prince of Anhua']@@nt
+['Taínos']@@nt
+[' Forces of Ahmed']@@nt
+['Gujarat Sultanate', 'Mamlûk Sultanate', 'Kozhikode Zamorin Raja', 'Ottoman Empire', 'Republic of Venice', 'Republic of Ragusa']@@nt
+['Canaan', 'Kadesh', 'Tel Megiddo', 'Mitanni']@@nt
+['Great Seljuq Empire', 'Atabegs of Azerbaijan', 'Sultanate of Rum']@@nt
+['1508–10', 'Venice', '1510–11', 'Papal States', 'Venice', '1511–13', 'Papal States', 'Venice', ' Spain', 'Holy Roman Empire', 'England', 'Swiss mercenaries', '1513–16', 'Papal States', ' Spain', 'Holy Roman Empire', 'England', 'Duchy of Milan', 'Swiss mercenaries']@@nt
+['Duchy of Saxony']@@nt
+['Kingdom of Leon']@@nt
+['Principality of Polotsk']@@nt
+['Veche', ' of kiev']@@nt
+['County of Portugal']@@nt
+['Kingdom of Navarre', 'Kingdom of Aragon']@@nt
+['Duchy of Brittany']@@nt
+['Aro Confederacy']@@nt
+['Norway', 'Earldom of Orkney', 'English Rebels']@@nt
+['Dervish State']@@nt
+['Kuwait', 'House of Saud', 'Arab tribes', 'Al-Muntafiq', 'Mutayr', 'Otaibah', 'Al-Dhafeer', 'Ajman tribe', 'Al-Hawajir', 'Al Murrah', 'Bani Khalid', "Subay'", 'Suhool']@@nt
+['Qing dynasty', 'Yìhéquán']@@nt
+['Shoubakis']@@nt
+['Ras Al Khaimah']@@nt
+['French Union', 'French Fourth Republic', 'State of Vietnam', 'Cambodia', 'Kingdom of Laos', 'Supported by:', 'United States']@@nt
+['Hukbalahap']@@nt
+['Republic of Mahabad', "Azerbaijan People's Republic", 'Supported by:', 'Soviet Union']@@nt
+['Laborers in Punnapra and Vayalar', 'Communist Party of India']@@nt
+['North Korea', 'China', 'Soviet Union', 'Medical support', 'Bulgaria', 'Czechoslovakia', '[3]', 'Hungary', 'Poland', 'Romania', '[4]']@@nt
+['Hazara', ' rebels under Ebrāhim Beg']@@nt
+['Netherlands', 'United Kingdom', ' (until 1946)', 'Japan', ' (until 1946)']@@nt
+['Duchy of Bavaria-Landshut', 'Electorate of the Palatinate']@@nt
+['Mamluk Sultanate', 'Ottoman Empire']@@nt
+['Duchy of ', 'Guelders']@@nt
+['Shaybanid dynasty']@@nt
+['Kalmar Union', 'Denmark', 'Norway']@@nt
+['Kalmar Union', 'Denmark']@@nt
+['Nubia', 'Shasu']@@nt
+['Nubia']@@nt
+['Yamhad', 'Babylon', 'smaller Syrian city states']@@nt
+['Alalakh', 'Arzawa', 'Hurrians', 'smaller Syrian city states']@@nt
+['Ancient Egypt']@@nt
+['Babylon']@@nt
+['Taifa of Lérida']@@nt
+['Xia Dynasty']@@nt
+['Abe clan']@@nt
+['Byzantine Empire', ', ', 'Empire of Nicaea', ' (1204–1261)', 'Empire of Trebizond', ' (1204–1308)', 'Crusader States']@@nt
+['Peter Orseolo']@@nt
+['Kingdom of Sicily', 'Kingdom of France', 'Lombard duchies', 'Papal States', 'Serbs', 'Duklja', ' and ', 'Raška']@@nt
+['Byzantine Empire', 'Duchy of Anacopia', 'Duchy of Kldekari', 'Duchy of Klarjeti']@@nt
+['Kingdom of Norway']@@nt
+['Ashanti Empire']@@nt
+['Srivijaya']@@nt
+['Crusaders']@@nt
+['Amorites', 'Babylon']@@nt
+['troops of ', 'Puzur-Sin', 'troops of ', 'Ashur-apla-idi', 'troops of ', 'Nasir-Sin', 'troops of ', 'Sin-namir', 'troops of ', 'Ipqi-Ishtar', 'troops of ', 'Adad-salulu', 'Amorites', 'Babylon']@@nt
+['Babylon', 'Amorites']@@nt
+['Grand Duchy of Lithuania']@@nt
+['Emirate of Sicily', 'Zirids', ' (1063-1068)']@@nt
+['Elam', 'Larsa', ' (after c. 1763 BC) ', 'Mari', ' (after c. 1763 BC) ', 'Assyria', 'minor city states']@@nt
+['Eastern Chalukyas', 'Pala Empire', 'Odda', 'Kalinga']@@nt
+['Jurchen', 'pirates']@@nt
+["Kievan Rus' allied to ", 'Yaroslav I']@@nt
+['Babylon', 'Remnants of the Babylonian Empire (after c. 1595 BC)']@@nt
+['Voivodship of Ahtum']@@nt
+['Uruk', 'Isin', 'Der', 'Babylon', 'Sutum', 'Rapiqum']@@nt
+['Leinster', 'Dublin', 'Vikings of ', 'Orkney', ' and ', 'Man']@@nt
+['Gutian dynasty of Sumer']@@nt
+['Lullubi']@@nt
+['Principality of Salerno', 'Principality of Benevento', 'Principality of Capua', 'Republic of Amalfi', 'Duchy of Naples']@@nt
+['Kish', ' (before being conquered) ', 'Lagash', 'Uruk', 'Umma', 'Ur', 'Kazallu']@@nt
+['Eshnunna', 'minor city states']@@nt
+['Elam', 'Susa', 'Marhasi']@@nt
+['Ur']@@nt
+['Ur', 'Uruk', 'Larsa', 'Nippur', 'Akshak', 'Umma', ' and others']@@nt
+['Hamazi', 'Akkad', 'Kish', 'Nippur']@@nt
+['Kish', 'Lagash', 'Ur', 'Nippur', 'Larsa', 'Uruk']@@nt
+['Aratta']@@nt
+['Nubia', 'Libya', 'Levant']@@nt
+['Kingdom of Rwenzururu', 'Royal Guards']@@nt
+['Arakan Rohingya Salvation Army']@@nt
+['Ninja militia']@@nt
+['Kurdistan Communities Union (KCK)']@@nt
+['Tunisia', 'Tunisian National Guard', 'Tunisian Army', 'Tunisian Police']@@nt
+[' Kamwina Nsapu militia']@@nt
+['Niger Delta Separatists']@@nt
+['Hadi Government', 'Southern Movement', 'Support:', 'Saudi Arabia', 'UAE', ' (2015-2019) ', 'Sudan', 'Armament support:', 'United States']@@nt
+["Donetsk People's Republic", "Luhansk People's Republic", 'Support:', 'Russia', ' (Denied)']@@nt
+['Hadi Government']@@nt
+['Hamas']@@nt
+['Republic of Artsakh', 'Armenia']@@nt
+['RENAMO']@@nt
+['SPLM-IO', '[126]', 'Nuer White Army', '[127]', 'SSDM', 'Cobra Faction', '[c]', 'Greater Pibor Forces ', '(since 2015)', '[129]', ' Agwelek forces', '[132]', '[133]', 'TFNF', '[134]', 'SSFDP', '[135]', 'South Sudan National Army', '[136]', '[137]', 'NAS', '[138]', '(since March 2017)', 'SSPA', ' SS-UF', '[139]', 'Arrow Boys', '(since Nov. 2015)', 'Wau State insurgents', '[140]', 'Supported by:', 'Sudan', '(South Sudanese gov. claim)', '[141]', 'UNMISS', '[142]', ' Regional Protection Force', '[143]', 'Rwanda', 'Ethiopia']@@nt
+['Bangsamoro Republik']@@nt
+['Government of National Accord', ' and ', 'Libya Shield Force', 'Islamic State of Iraq and the Levant', 'National Salvation Government', 'Support:', 'United States', ' (Since 2016) ', 'United Kingdom', ' (Since 2016) ', 'United Nations']@@nt
+['March 23 Movement']@@nt
+['Al-Qaeda in the Arabian Peninsula', 'Ansar al-Sharia', 'Al-Shabaab', 'Aden-Abyan Islamic Army', 'Other Islamic militants']@@nt
+['Islamic State']@@nt
+['* ', 'National Movement for the Liberation of Azawad', '(MNLA)', 'Islamic Movement of Azawad', '(MIA)', '[110]', 'Islamist Groups', 'Al-Qaeda', "Jama'at Nasr al-Islam wal Muslimin", ' (2017–present)', 'Al-Mourabitoun', ' (2013–17)', 'Ansar al-Sharia', ' (2012–present)', 'Ansar Dine', ' (2012–17)', '[111]', 'AQIM', ' (2012–17)', 'Macina Liberation Front', ' (2015–17)', '[112]', 'MOJWA', ' (2011–13)', '[113]', '[114]', ' Nigerian jihadist volunteers', 'Boko Haram', ' (2012–13)', '[115]', 'Ansaru', ' (2012–13)', '[115]', 'Islamic State', 'Islamic State in the Greater Sahara']@@nt
+['FPRC', 'UPC', 'MPC', ' 3R', 'Séléka', 'CPJP', 'CPSK', 'UFDR', 'FDPC', 'FPR', 'Anti-balaka', 'MRPRC']@@nt
+['Islamic State of Iraq and the Levant', ' (ISIL)', 'Boko Haram', 'Islamic State of Iraq and the Levant', 'Wilayat Tarabulus', 'Islamic State of Iraq and the Levant', 'Wilayah al-Jazair', 'Tehrik-i-Taliban Pakistan', 'al-Qaeda']@@nt
+['South Sudan']@@nt
+['Al-Shabaab']@@nt
+['Islamic State of Iraq and the Levant', 'Al-Qaeda', ' affiliates', 'Tahrir al-Sham', 'Free Syrian Army', 'Saraya Ahl al-Sham']@@nt
+['Al-Ashtar Brigades', "Wa'ad Allah Brigades", 'Islamic Allah Brigades', 'Imam al-Mahdi Brigades', 'al-Haydariyah Brigades', 'Iran', ' (alleged)', 'Islamic Revolutionary Guard Corps']@@nt
+['SRF', 'SPLM-N', 'SLA', 'JEM', 'Alleged support:', 'South Sudan']@@nt
+["Military of Côte d'Ivoire", 'Liberian ', 'mercenaries', 'Young Patriots of Abidjan', 'Ivorian Popular Front']@@nt
+['Resistance Patriots of Dongo']@@nt
+['Kyrgyzistani ', 'Kyrgyz', ' gangs', 'Kyrgyzstani ', 'Uzbeks']@@nt
+['United Tajik Opposition', 'Islamic Movement of Uzbekistan']@@nt
+['Various militias', 'Gaddafi loyalists', 'Toubou Front for the Salvation of Libya', 'General Haftar forces:', 'Zintan Brigade', 'Brigade 93', 'Pro Haftar ', 'Libyan National Army', ' factions', 'Mashashya tribe (alleged)', '[54]', 'Katibat Al-Awfiyah brigade', 'Al-Awfea brigade (alleged)', '[55]', 'Shura Council of Benghazi Revolutionaries', '[56]', '[57]', 'Ansar Al-Sharia Brigades', 'Libya Shield 1']@@nt
+['Islamist', ' militants', 'Islamic State of Iraq and the Levant']@@nt
+['Libyan Arab Jamahiriya']@@nt
+['Boko Haram']@@nt
+['Shower Posse', ' drug cartel']@@nt

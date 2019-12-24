@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>QA on War</title>
+</head>
+<body>
+    <form class="question_form" action="/index" method="post">
+        {% csrf_token %}
+        <ul>
+            <li>输入你的问题</li>
+            <li>
+                <input class="question" type="text" name="question"/>
+            </li>
+            <li>
+                <input class="submit" type="submit" name="完成"/>
+            </li>
+        </ul>
+    </form>
+    <div class="result">
+        问题<p class="ques"> {{ question }}</p>
+        答案
+        {%for res in result%}
+            <p class="res">{{res}}</p>
+        {% endfor %}
+    </div>
+    <div class="author">Group 8 陈路 司寅波 李丰 陈皓泉</div>
+
+</body>
+<style>
+body {
+    background: #f3f3f3;
+}
+form.question_form {
+    width: 500px;
+    background: #ffffff;
+    margin: 50px auto;
+}
+ul {
+    list-style: none;
+    padding: 20px;
+    box-shadow: 3px 3px #f3d6d6;
+}
+li {
+    text-align: center;
+}
+input.question {
+    width: 450px;
+    height: 20px;
+    margin-bottom: 10px;
+}
+input.submit {
+    width: 50px;
+    background: #000000;
+    border: none;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 5px;
+    cursor: pointer;
+}
+.result {
+    width: 450px;
+    background: #ffffff;
+    padding: 20px;
+    margin: 0 auto;
+    box-shadow: 3px 3px #f3d6d6;
+}
+p.ques {
+    background: #947b7b;
+    color: #ffffff;
+    padding: 5px;
+    border-radius: 5px;
+}
+p.res {
+    background: #5aaf3f;
+    color: #ffffff;
+    padding: 5px;
+    border-radius: 5px;
+}
+.author {
+    margin: 30px auto;
+    width: 490px;
+    height: 50px;
+    line-height: 45px;
+    background: #ffffff;
+    text-align: center;
+    box-shadow: 3px 3px #f3d6d6;
+}
+</style>
+</html>

@@ -1,0 +1,9 @@
+SELECT * FROM country into outfile 'F:/country.csv' fields terminated by ',' optionally enclosed by '"' lines terminated by '\r\n';
+SELECT * FROM war into outfile 'F:/war.csv' fields terminated by ',' optionally enclosed by '"' lines terminated by '\r\n';
+SELECT * FROM (year) into outfile 'F:/year.csv' fields terminated by ',' optionally enclosed by '"' lines terminated by '\r\n';
+SELECT * FROM location into outfile 'F:/location.csv' fields terminated by ',' optionally enclosed by '"' lines terminated by '\r\n';
+SELECT * FROM win into outfile 'F:/win.csv' fields terminated by ',' optionally enclosed by '"' lines terminated by '\r\n';
+SELECT * FROM defeated into outfile 'F:/defeated.csv' fields terminated by ',' optionally enclosed by '"' lines terminated by '\r\n';
+SELECT * FROM (start) into outfile 'F:/start.csv' fields terminated by ',' optionally enclosed by '"' lines terminated by '\r\n';
+SELECT * FROM (end) into outfile 'F:/end.csv' fields terminated by ',' optionally enclosed by '"' lines terminated by '\r\n';
+SELECT * FROM where_to_combat into outfile 'F:/where_to_combat.csv' fields terminated by ',' optionally enclosed by '"' lines terminated by '\r\n';
